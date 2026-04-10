@@ -1,2 +1,815 @@
---[[ obfuscated @ discord.gg/25ms ]]
-return(function(...)local S=setmetatable local J,L=S({okb=function()end},{__concat=function(s,O)s.okb=O end,__pow=function(s,O)return s.okb end}),S({mo={`XkgX2YR=`,`+VEaYj8=`,`5DHPlJl=`,`i4bibtU=`,`O/HN9uS=`,`LYYoH2H=`,`LT52Yl==`,`leFsn0S=`,`eS==`,`MbW=`,`IluA`,`SHscE8R=`,`28Ad`,`rR==`,`Ltro/R==`,`0QVApl==`,`x53VGW==`,`R+QMC6l=`,`ZWlOMS==`,`8laSSzR=`,`6Dq=`,`uVP4C7p=`,`oJXlU7j=`,`IR==`,`GtlV9ul=`,`TF3w90U=`,`ydIV`,`4f62VLA=`,`GMLdIR==`,`tZi+5EV=`,`2MWir3S=`,`Pl2jMw8=`,`XdR1wb8=`,`7MLe7m/=`,`p4+Y`,`peHbpOS=`,`GHl=`,`ZS==`,`/f9szl==`,`XuAuT2H=`,`IYQd7MZ8`,`Er1Dkvj=`,`V1b+b+W=`,`69+fyl==`,`pf29Z17O7W==`,`tXYbk+g=`,`yWqHR9W=`,`cPCt2R==`,`3yHr9L/=`,`fqSQ2gR=`,`U6JcsW==`,`1QLPI1l=`,`jnZ5`,`S0GD`,`2kvH/TH=`,`HbjFK8U=`,`ELw1fEA=`,`8FqFkGW=`,`mKpKQg+=`,`ml==`,`kR==`,`2fi=`,`Bcur`,`ZDRZCX/=`,`+xbzCs/=`,`QobPHtq=`,`JtCmCyi=`,`A4jjQS==`,`u9xSWW==`,`PDphkdW=`,`Xz1EsbA=`,`0/i73ug=`,`OPVg`,`gb+A5tg=`,`tAj=`,`i1/rvdU=`,`uR==`,`vNyxxS==`,`toOTqpl=`,`wXTbQWV=`,`+RizhI8=`,`Qr+0`,`76S=`,`rBseZmq=`,`L0bL30H=`,`q9atq1l=`,`Jo8=`,`gzMC5ES=`,`Hkw/ko8=`,`xWvm6Wp=`,`ocMkZS/=`,`R2/x`,`WAVQUci=`,`mTr9nqW=`,`bAKHvpH=`,`xY4hgxq=`,`GHMj1W==`,`kXB9NWW=`,`Y2vji7V=`,`Cp02PfR=`,`n/HF/ql=`,`9fa9`,`HEekWkg=`,`1MUGpfA=`,`EXnz`,`cbrxviA=`,`zVrcUG+=`,`IZnLp1l=`,`y+8DhR==`,`0QJlgGV=`,`04yw5Ji=`,`hOF7k9i=`,`KBXvfW8=`,`9l==`,`a1RUFYj=`,`svU=`,`NjJrKl==`,`ASLOBa8=`,`8c9AqwW=`,`pljAqt+=`,`9BU=`,`M/RBUS==`,`bkv6X7V=`,`TJ/SlaU=`,`OLkvLxR=`,`mR==`,`j4X4YqR=`,`Gu8=`,`tGClfXi=`,`MsNAWfi=`,`ycZzv6+=`,`insK0A8=`,`GMK3`,`lMsQGD+FGmKd7l==`,`Bw7LdjV=`,`NcNiAlj=`,`/yxKNf/=`,`vDU=`,`+kA=`,`YBF3Wp/=`,`FjW6XJi=`,`L8qMHEW=`,`MWc0XhS=`,`KZYYuhU=`,`ofao`,`1QLNGDl=`,`Mu74`,`bLAilz+=`,`VtZEOZW=`,`sY809l/=`,`8keh55/=`,`HDKV71a3/mX4qcsizMIQGDZVBcL3zwtbI12QHDgSpTA5qca4/DK3IwU=`,`VTZanW==`,`ejqz1yH=`,`gGIuXS==`,`dpSpwUi=`,`pl==`,`UV1yjc/=`,`MD+=`,`KfGIpyU=`,`hfxb7YV=`,`w/X+drU=`,`OSK32S==`,`8sn/NbA=`,`1W84`,`ayDDApg=`,`Dx2l`,`yODUUDW=`,`iotphl==`,`79aN7M+=`,`ewAdJR==`,`gtcD0Eg=`,`kYG/RR==`,`FWukpNi=`,`cjctnlA=`,`0A3aERg=`,`em76QHV=`,`oR==`,`HDf3IMLP`,`7cuWqcZo`,`Yot1`,`8D2CB7H=`,`AvU=`,`p4+Q`,`Pjlqpnp=`,`EF8a`,`cT5GFl==`,`jR==`,`q12dqDW=`,`AM+NpNR=`,`nCh6mqp=`,`0N8QfW==`,`1hUMc+A=`,`6D6Jrhg=`,`6abMaFR=`,`JS==`,`JMsAUwA=`,`1uxKUl==`,`vEFU+W==`,`6bfMbNg=`,`SHFffql=`,`qBolBR==`,`vZIqfpq=`,`AUW=`,`I51jbDR=`,`lHjjfO/=`,`mknv0W==`,`I12uqS==`,`wafw`,`+VIbGl==`,`OFgtwPU=`,`VFPFLUR=`,`gaBgsBR=`,`y+3ZVSU=`,`gkRmnVH=`,`s56TDZ+=`,`eRAJ+4W=`,`G3MlzoU=`,`0L/hE6U=`,`duzxkP8=`,`R4czeVl=`,`W2iORI/=`,`aiePiQ+=`,`UW==`,`0ifKCJU=`,`ilIs0xR=`,`9fW=`,`qYL3qYfV`,`K2lhm7q=`,`EGYH5Qq=`,`YVnnARi=`,`Gl==`,`GvBzssg=`,`v6JtZTl=`,`6mHhwrH=`,`+urwwfV=`,`bNOG0U+=`,`wIDOIh+=`,`p4KPHbX9q1pSBMKbITREzl==`,`SRXsyW==`,`rm84wtR=`,`U/0Jftg=`,`7RznGR==`,`/S7tPDq=`,`fqCC3Mp=`,`d0Pzpii=`,`Z/7e+MV=`,`TMh1Pvg=`,`hwdXzW==`,`8g+Gb4q=`,`yl0p4l==`,`D48UD2i=`,`ziRguSU=`,`mf8Zljp=`,`BGnseK+=`,`6jGS1OR=`,`IDsFG9/=`,`wrat7mKbG5XWqYfiGwdD7cu47MtFG5SNHDKV71a3/OjF/Df5qbatGDlN`,`xhmrLil=`,`SQKF0l==`,`pKrSunq=`,`Q5bCGR==`,`scxH2pA=`,`jeI507g=`,`bSdS5e/=`,`O/2IfBl=`,`5sDNKbV=`,`Y8YYjYR=`,`wss3`,`Vz2ddeR=`,`XUTAItA=`,`gcbdX+j=`,`X/8=`,`COR=`,`gGUH`,`1zSVqnl=`,`nviZSrH=`,`WW==`,`e7xloR==`,`xA/03+j=`,`M4nE`,`Mrs0U1+=`,`2SYXpl==`,`YprInyp=`,`09vqNl==`,`LmPRJVH=`,`8z9+7Dp=`,`oBDuYR==`,`sN8qNVA=`,`Wu+5h0/=`,`4Qk5qDA=`,`0G6tUS==`,`cvKkxeq=`,`o1849W==`,`wXTI`,`Wb/OgR==`,`1knpGuj=`,`rgLnUgq=`,`TXLKfeU=`,`Lr0w`,`JbUt`,`8oo8bb8=`,`EJW=`,`dgO16Yp=`,`T7qxcBj=`,`Sby+RZg=`,`qT1YVtV=`,`pXtkK9p=`,`0QEn/J8=`,`QW==`,`VXoQNOU=`,`qrtVIl==`,`H8vZbJW=`,``,`2Yl6dW==`,`ymYZegA=`,`wTFrscq=`,`OWf1KLU=`,`wt6LvLR=`,`uSGcWx8=`,`deTjSKj=`,`JOSepS==`,`jA++Kh/=`,`Ba/GtGR=`,`+PgM1cA=`,`UWg4bxW=`,`XsSD9R==`,`aZfiWW==`,`IF3v1S/=`,`3DBd2W==`,`3kfewl==`,`9wdD`,`Il==`,`dEcgSVA=`,`GMLdImZVHDt3IW==`,`4jEtU7S=`,`3xmvXP8=`,`TTXPIcL9/MjSGMLV/l==`,`uHbsga+=`,`nrWuvEg=`,`iA3g6Jj=`,`AfFRtiA=`,`I1S=`,`HDKPG9q=`,`C1Rx38j=`,`rIl=`,`JvSkIOW=`,`KHYOSS==`,`dXGgDhH=`,`J9A=`,`2mR=`,`pe+sJOl=`,`pVR=`,`VN8=`,`EHR=`,`uTnwbJV=`,`nJpC04R=`,`L0rBBuq=`,`775p`,`3sJLh1j=`,`GD55zB+=`,`OWO6zFS=`,`NELVmAi=`,`ere5o8g=`,`dNzuxv8=`,`jkw/x9q=`,`J5StIw8NJS==`,`CdEDDXR=`,`5MmNTnj=`,`8BBQEiA=`,`fadyo1V=`,`KDq=`,`qYddHS==`,`eKBCcl==`,`j6n5zr8=`,`HDf3IMA=`,`oZYf3y/=`,`jyOBToW=`,`O4rb92p=`,`tBwTZHp=`,`Qkyt0R==`,`Ojzw/Z/=`}},{__sub=function(s,O)s.mo=O end,__add=function(s,O)return s.mo end})local G=S({enb=function(s)return((L+`vhb`))[((s+(`-76`-0))-(`-76`-0))*(`1`-0)+(`-49484`-0)]end},{__sub=function(s,O)s.enb=O end,__pow=function(s,O)return s.enb end})for s,O in ipairs{{`1`-0,`382`-0},{`1`-0,`72`-0},{`73`-0,`382`-0}}do while(O)[`1`-0]<(O)[`2`-0]do((L+`nS`))[(O)[`1`-0] ],((L+`Nw`))[(O)[`2`-0] ],(O)[`1`-0],(O)[`2`-0]=((L+`lf`))[(O)[`2`-0] ],((L+`JQ`))[(O)[`1`-0] ],(O)[`1`-0]+(`1`-0),(O)[`2`-0]-(`1`-0)end end do local s=S({r_=table.insert},{__add=function(s,O)s.r_=O end,__sub=function(s,O)return s.r_ end})local O=S({xL=string.len},{__sub=function(s,O)s.xL=O end,__index=function(s,O)return rawget(s,`xL`)end})local E,K,G,q,Z,g,W=S({xA={I=`25`-0,F=`47`-0,Y=`54`-0,p=`12`-0,[`2`]=`17`-0,e=`51`-0,o=`43`-0,R=`0`-0,[`5`]=`34`-0,H=`28`-0,[`0`]=`31`-0,Q=`53`-0,q=`24`-0,j=`4`-0,c=`22`-0,u=`57`-0,n=`11`-0,V=`52`-0,t=`37`-0,f=`5`-0,w=`2`-0,E=`58`-0,A=`60`-0,[`6`]=`19`-0,O=`3`-0,S=`32`-0,[`+`]=`20`-0,d=`33`-0,g=`56`-0,[`1`]=`23`-0,s=`49`-0,C=`30`-0,z=`10`-0,r=`39`-0,x=`15`-0,X=`1`-0,T=`18`-0,m=`7`-0,[`4`]=`35`-0,G=`27`-0,k=`62`-0,b=`50`-0,N=`41`-0,y=`59`-0,L=`61`-0,J=`14`-0,K=`21`-0,Z=`13`-0,a=`9`-0,P=`45`-0,[`/`]=`8`-0,h=`42`-0,[`7`]=`29`-0,l=`16`-0,U=`36`-0,[`3`]=`46`-0,D=`38`-0,[`8`]=`40`-0,i=`44`-0,B=`26`-0,W=`48`-0,[`9`]=`55`-0,v=`63`-0,M=`6`-0}},{__pow=function(s,O)s.xA=O end,__add=function(s,O)return s.xA end}),S({cj=string.sub},{__sub=function(s,O)s.cj=O end,__concat=function(s,O)return s.cj end}),S({ln=math.floor},{__concat=function(s,O)s.ln=O end,__mul=function(s,O)return s.ln end}),S({vM=type},{__div=function(s,O)s.vM=O end,__concat=function(s,O)return s.vM end}),S({N8=string.char},{__concat=function(s,O)s.N8=O end,__add=function(s,O)return s.N8 end}),S({H2=table.concat},{__div=function(s,O)s.H2=O end,__pow=function(s,O)return s.H2 end}),S({Wmb=L+`kA`},{__index=function(s,O)s.Wmb=O end,__add=function(s,O)return rawget(s,`Wmb`)end})for L=`1`-0,#(W+`cI`),`1`-0 do local I=S({oC=((W+`Pk`))[L]},{__mul=function(s,O)s.oC=O end,__div=function(s,O)return s.oC end})if(q..`ZP`)(I/`UW`)==`string`then local q,z,Q,M,f=S({Xmb=O.O3(I/`cjb`)},{__sub=function(s,O)s.Xmb=O end,__pow=function(s,O)return s.Xmb end}),S({epb={}},{__add=function(s,O)s.epb=O end,__mul=function(s,O)return s.epb end}),S({Iib=`1`-0},{__pow=function(s,O)s.Iib=O end,__index=function(s,O)return rawget(s,`Iib`)end}),S({ohb=`0`-0},{__mul=function(s,O)s.ohb=O end,__div=function(s,O)return s.ohb end}),S({Bx=`0`-0},{__div=function(s,O)s.Bx=O end,__add=function(s,O)return s.Bx end})while Q.xI<=q^`XJ`do local O=S({iO=(K..`EI`)(I/`ar`,Q.ZG,Q.Pz)},{__div=function(s,O)s.iO=O end,__mul=function(s,O)return s.iO end})local L=S({wpb=((E+`K9`))[O*`Yu`]},{__pow=function(s,O)s.wpb=O end,__index=function(s,O)return rawget(s,`wpb`)end})if L.EE then(J^`Ub`)(M*(M/`RF`+L.KE*(`64`-0)^((`3`-0)-(f+`wS`))));(J^`f1`)(f/((f+`Iy`)+(`1`-0)))if f+`w7`==`4`-0 then(J^`zr`)(f/(`0`-0))local O=S({Cv=(G*`vf`)((M/`Os`)/(`65536`-0))},{__concat=function(s,O)s.Cv=O end,__pow=function(s,O)return s.Cv end})local E,L=S({r_=(G*`XV`)(((M/`g0`)%(`65536`-0))/(`256`-0))},{__concat=function(s,O)s.r_=O end,__sub=function(s,O)return s.r_ end}),S({UJ=(M/`Fv`)%(`256`-0)},{__div=function(s,O)s.UJ=O end,__add=function(s,O)return s.UJ end});(s-`Nnb`)(z*`xw`,(Z+`Wgb`)(O^`we`,E-`Hjb`,L+`A_`));(J^`ne`)(M*(`0`-0))end(J^`qeb`)(Q^(Q.p1+(`1`-0)))continue end if O*`RI`==`=`then(s-`HB`)(z*`zR`,(Z+`KV`)((G*`bjb`)((M/`dob`)/(`65536`-0))))if Q.Jdb>=q^`Nh`or(K..`aG`)(I/`gC`,Q.lW+(`1`-0),Q.pw+(`1`-0))~=`=`then(s-`sI`)(z*`bZ`,(Z+`q3`)((G*`dx`)(((M/`nH`)%(`65536`-0))/(`256`-0))))end break end end((W+`Kmb`))[L]=(g^`Q4`)(z*`PG`)end end end do local s=S({Kmb=true},{__sub=function(s,O)s.Kmb=O end,__pow=function(s,O)return s.Kmb end})pcall(function()((getgenv()))[(G^`ukb`)(`49795`-0)]=function()end end)local O=S({nr=(string)[(G^`Hjb`)(`49597`-0)]},{__add=function(s,O)s.nr=O end,__index=function(s,O)return rawget(s,`nr`)end})local E,L=S({Zib=function()error((G^`QS`)(`49512`-0))end},{__pow=function(s,O)s.Zib=O end,__concat=function(s,O)return s.Zib end}),S({qU=false},{__mul=function(s,O)s.qU=O end,__add=function(s,O)return s.qU end})local K,q,Z,g=S({fW=pcall(function()(J^`OZ`)(L*true)end)and L+`vU`},{__sub=function(s,O)s.fW=O end,__index=function(s,O)return rawget(s,`fW`)end}),S({pob=(math)[(G^`MD`)(`49735`-0)]},{__sub=function(s,O)s.pob=O end,__div=function(s,O)return s.pob end}),S({Nk=(table)[(G^`Br`)(`49784`-0)]},{__add=function(s,O)s.Nk=O end,__index=function(s,O)return rawget(s,`Nk`)end}),S({GJ=table and(table)[(G^`wZ`)(`49736`-0)]or unpack},{__concat=function(s,O)s.GJ=O end,__index=function(s,O)return rawget(s,`GJ`)end})local W,I:str,z,Q=S({Sm=(q/`VS`)(`3`-0,`65`-0)},{__mul=function(s,O)s.Sm=O end,__pow=function(s,O)return s.Sm end}),S({dC=`0`-0},{__mul=function(s,O)s.dC=O end,__sub=function(s,O)return s.dC end}),S({qB=`0`-0},{__pow=function(s,O)s.qB=O end,__mul=function(s,O)return s.qB end}),S({rP={pcall(function()local s=S({Z8=(`2327841`-0)-(G^`kdb`)(`49601`-0)^(`9400796`-0)},{__concat=function(s,O)s.Z8=O end,__sub=function(s,O)return s.Z8 end})return(G^`ie`)(`49830`-0)/(s-`uab`)end)}},{__div=function(s,O)s.rP=O end,__add=function(s,O)return s.rP end})local M=S({Ou=((Q+`ojb`))[`2`-0]},{__add=function(s,O)s.Ou=O end,__pow=function(s,O)return s.Ou end})local f=S({O3=tonumber((O.Ml(tostring(M^`Q_`),(G^`b4`)(`49541`-0)))())},{__div=function(s,O)s.O3=O end,__mul=function(s,O)return s.O3 end})for E=`1`-0,W^`I5`,`1`-0 do local L,K=S({Jl=(math)[(G^`ae`)(`49735`-0)](`1`-0,`100`-0)},{__div=function(s,O)s.Jl=O end,__sub=function(s,O)return s.Jl end}),S({IX=(q/`Zq`)(`0`-0,`255`-0)},{__add=function(s,O)s.IX=O end,__pow=function(s,O)return s.IX end})local Z,Q,k=S({Iu=(q/`bfb`)(`1`-0,L-`xP`)},{__div=function(s,O)s.Iu=O end,__pow=function(s,O)return s.Iu end}),S({L3=(q/`alb`)(`1`-0,`2`-0)==`1`-0},{__pow=function(s,O)s.L3=O end,__index=function(s,O)return rawget(s,`L3`)end}),S({k9=(M^`Fib`):gsub((G^`pu`)(`49541`-0),(G^`Jt`)(`49752`-0)..(tostring((q/`E5`)(`0`-0,`10000`-0))..(G^`Qt`)(`49752`-0)))},{__mul=function(s,O)s.k9=O end,__div=function(s,O)return s.k9 end})local t=S({GB={pcall(function()if(q/`vh`)(`1`-0,`2`-0)==`1`-0 or E==W^`YC`then local E=S({sr=tonumber((O.jx(tostring((({pcall(function()local s=S({Ibb=(`12886494`-0)-(G^`Ch`)(`49766`-0)^(`2343414`-0)},{__index=function(s,O)s.Ibb=O end,__concat=function(s,O)return rawget(s,`Ibb`)end})return(G^`LI`)(`49577`-0)/(s..`qp`)end)}))[`2`-0]),(G^`iQ`)(`49541`-0)))())},{__index=function(s,O)s.sr=O end,__mul=function(s,O)return rawget(s,`sr`)end});(J^`SO`)(s-(s^`C5`and f*`Sab`==E*`Qx`))end if Q.zW then error(k/`tW`,`0`-0)end local I=S({GY={}},{__div=function(s,O)s.GY=O end,__add=function(s,O)return s.GY end})for s=`1`-0,L-`un`,`1`-0 do((I+`Ad`))[s]=(q/`mhb`)(`0`-0,`255`-0)end((I+`sq`))[Z^`dM`]=K^`J`return g.ijb(I+`Yjb`)end)}},{__mul=function(s,O)s.GB=O end,__index=function(s,O)return rawget(s,`GB`)end})if Q.V8 then(J^`kc`)(s-(s^`HD`and((t.CF)[`1`-0]==false and(t.Ebb)[`2`-0]==k/`nD`)))else(J^`Cc`)(s-(s^`no`and(t.Xr)[`1`-0]));(J^`jG`)(I*(((I-`qq`)+(t.xz)[Z^`Eb`+(`1`-0)])%(`256`-0)));(J^`cr`)(z^((z*`Jy`+K^`xt`)%(`256`-0)))end end local k=S({f_=loadstring or load or((getfenv(print)))[(G^`k3`)(`49585`-0)]or((getfenv(print)))[(G^`Ez`)(`49509`-0)]},{__index=function(s,O)s.f_=O end,__mul=function(s,O)return rawget(s,`f_`)end})if not(k*`bz`)then local s,O=S({qx=pcall(function()return require((G^`mib`)(`49690`-0))end)},{__mul=function(s,O)s.qx=O end,__sub=function(s,O)return s.qx end}),S({W4=nil},{__add=function(s,O)s.W4=O end,__pow=function(s,O)return s.W4 end});(J^`P0`)((k)[O^`Ws`and((O^`EE`))[(G^`bi`)(`49585`-0)] ])end local t=S({qR=true},{__pow=function(s,O)s.qR=O end,__add=function(s,O)return s.qR end})if k*`TA`then local s=S({b0=tonumber((O.Gc(tostring((({((k*`Ws`)((G^`kfb`)(`49708`-0)))()}))[`2`-0]),(G^`z_`)(`49541`-0)))())},{__index=function(s,O)s.b0=O end,__sub=function(s,O)return rawget(s,`b0`)end})local E=S({snb=tonumber((O.wmb(tostring((({((k*`dH`)((G^`wT`)(`49814`-0)))()}))[`2`-0]),(G^`BF`)(`49541`-0)))())},{__sub=function(s,O)s.snb=O end,__mul=function(s,O)return s.snb end});(J^`jw`)(t^(s-`kX`~=E*`agb`))end(J^`T3`)(s-(s^`u5`and(I-`FG`==z*`rdb`and t+`Xmb`)))local D=S({Mg=not s^`iZ`and(E..`LZ`)()},{__div=function(s,O)s.Mg=O end,__add=function(s,O)return s.Mg end})if s^`dY`then else repeat return(function()while true do l1,l2=l2,l1;(E..`kU`)()end end)()until true while true do l2=(q/`Xob`)(`1`-0,`6`-0)if l2>`2`-0 then l2=tostring(l1)else l1=l2 end end return end end local E,s,O=S({lcb=function(s)local O=S({Ht=(G^`t0`)(`49488`-0)},{__add=function(s,O)s.Ht=O end,__concat=function(s,O)return s.Ht end})for E=`1`-0,#s/(`2`-0),`1`-0 do(J^`Mn`)(O+((O..`nlb`)..(s)[#s/(`2`-0)+(s)[E] ]))end return O..`yg`end},{__add=function(s,O)s.lcb=O end,__pow=function(s,O)return s.lcb end}),S({MS=nil},{__mul=function(s,O)s.MS=O end,__div=function(s,O)return s.MS end}),S({jQ=nil},{__sub=function(s,O)s.jQ=O end,__pow=function(s,O)return s.jQ end})do local L,K,q,Z=S({AY=(math)[(G^`Ijb`)(`49813`-0)]},{__mul=function(s,O)s.AY=O end,__add=function(s,O)return s.AY end}),S({I6=(math)[(E^`pz`){`2`-0,`1`-0,(G^`sY`)(`49788`-0),(G^`gc`)(`49550`-0)}]},{__sub=function(s,O)s.I6=O end,__concat=function(s,O)return s.I6 end}),S({KX=(table)[(E^`n4`){`1`-0,`2`-0,(G^`fP`)(`49518`-0),(G^`gR`)(`49507`-0)}]},{__mul=function(s,O)s.KX=O end,__div=function(s,O)return s.KX end}),S({nu=(G^`tkb`)(`49488`-0)},{__div=function(s,O)s.nu=O end,__sub=function(s,O)return s.nu end})local g,W,I,z,Q,M,f=S({S3=((Z-`uK`))[(G^`dkb`)(`49547`-0)]},{__index=function(s,O)s.S3=O end,__div=function(s,O)return rawget(s,`S3`)end}),S({on=`0`-0},{__add=function(s,O)s.on=O end,__index=function(s,O)return rawget(s,`on`)end}),S({mab=`2`-0},{__mul=function(s,O)s.mab=O end,__add=function(s,O)return s.mab end}),S({IN={}},{__sub=function(s,O)s.IN=O end,__index=function(s,O)return rawget(s,`IN`)end}),S({Ac={}},{__concat=function(s,O)s.Ac=O end,__sub=function(s,O)return s.Ac end}),S({ymb=`0`-0},{__pow=function(s,O)s.ymb=O end,__sub=function(s,O)return s.ymb end}),S({Cq={}},{__pow=function(s,O)s.Cq=O end,__sub=function(s,O)return s.Cq end})for s=`1`-0,`256`-0,`1`-0 do((f-`pcb`))[s]=s end repeat local s=S({GJ=(K..`ht`)(`1`-0,#(f-`R8`))},{__sub=function(s,O)s.GJ=O end,__concat=function(s,O)return s.GJ end})local O=S({fgb=(q/`gf`)(f-`gt`,s..`b7`)},{__div=function(s,O)s.fgb=O end,__index=function(s,O)return rawget(s,`fgb`)end});((Q-`wS`))[O.AQ]=(g/`Pgb`)(O.deb-(`1`-0))until#(f-`S8`)==`0`-0 local k=S({bk={}},{__add=function(s,O)s.bk=O end,__div=function(s,O)return s.bk end})local t,D=S({M7=function()if#(k/`Cd`)==`0`-0 then(J^`sc`)(W+(W.vdb*(`97`-0)+(`15445888965131`-0))%(`35184372088832`-0))repeat(J^`lz`)(I*(((I+`gmb`)*(`110`-0))%(`257`-0)))until I+`jmb`~=`1`-0 local s=S({X3=(I+`dib`)%(`32`-0)},{__pow=function(s,O)s.X3=O end,__sub=function(s,O)return s.X3 end})local O=S({jT=((L+`A`)(W.nab/(`2`-0)^((`13`-0)-((I+`ht`)-(s-`x9`))/(`32`-0)))%(`4294967296.0`-0))/(`2`-0)^(s-`Bu`)},{__mul=function(s,O)s.jT=O end,__concat=function(s,O)return s.jT end})local K=S({Et=(L+`My`)(((O..`olb`)%(`1`-0))*(`4294967296.0`-0))+(L+`FG`)(O..`vW`)},{__add=function(s,O)s.Et=O end,__div=function(s,O)return s.Et end})local q=S({QM=(K/`Fj`)%(`65536`-0)},{__pow=function(s,O)s.QM=O end,__mul=function(s,O)return s.QM end})local Z,g=S({Olb=(K/`bv`-q*`uA`)/(`65536`-0)},{__concat=function(s,O)s.Olb=O end,__index=function(s,O)return rawget(s,`Olb`)end}),S({sx=(q*`Ed`)%(`256`-0)},{__index=function(s,O)s.sx=O end,__mul=function(s,O)return rawget(s,`sx`)end})local z,Q=S({Ib=(q*`AU`-g*`H`)/(`256`-0)},{__pow=function(s,O)s.Ib=O end,__mul=function(s,O)return s.Ib end}),S({nE=Z.cB%(`256`-0)},{__add=function(s,O)s.nE=O end,__pow=function(s,O)return s.nE end})local M=S({Ad=(Z.EH-Q^`Nq`)/(`256`-0)},{__index=function(s,O)s.Ad=O end,__pow=function(s,O)return rawget(s,`Ad`)end});(J^`Rm`)(k+{g*`Ow`,z*`iX`,Q^`igb`,M^`mU`})end return(table)[(E^`Ieb`){`1`-0,`2`-0,(G^`AA`)(`49518`-0),(G^`uZ`)(`49507`-0)}](k/`IK`)end},{__sub=function(s,O)s.M7=O end,__concat=function(s,O)return s.M7 end}),S({zib={}},{__sub=function(s,O)s.zib=O end,__mul=function(s,O)return s.zib end});(J^`bx`)(O-setmetatable({},{[(E^`Ou`){`2`-0,`1`-0,(G^`Bl`)(`49517`-0),(G^`Hjb`)(`49702`-0)}]=D*`wfb`,[(E^`Pdb`){`1`-0,`3`-0,`2`-0,(G^`UN`)(`49608`-0),(G^`tm`)(`49507`-0),(G^`Jd`)(`49745`-0)}]={}}))local A=S({Pgb=function(s)local O=S({fab=(G^`Zk`)(`49488`-0)},{__concat=function(s,O)s.fab=O end,__pow=function(s,O)return s.fab end})for E=#s,`1`-0,`-1`-0 do(J^`Sj`)(O..(O^`B_`..s:sub(E,E)))end return O^`Uc`end},{__index=function(s,O)s.Pgb=O end,__mul=function(s,O)return rawget(s,`Pgb`)end})function s.MS(O,L)local K=S({Z1=D*`f8`},{__mul=function(s,O)s.Z1=O end,__div=function(s,O)return s.Z1 end})if((K/`o1`))[L]then else O=(A*`r2`)(O)local s=S({hH=(E^`sV`){`1`-0,`3`-0,`2`-0,(G^`Re`)(`49526`-0),(G^`sI`)(`49496`-0),(G^`tu`)(`49592`-0)}},{__sub=function(s,O)s.hH=O end,__div=function(s,O)return s.hH end})do L=L-(`2329447`-0)end if`176966`-0 then do L=L-(`493674`-0)end end for s=`1`-0,`1`-0,`1`-0 do do L=L-(`213396`-0)end end if tostring(L)then do L=L-(`279391`-0)end end if true then do L=L-(`1342986`-0)end end(J^`Lq`)(k+{})local q=S({hfb=Q-`AR`},{__mul=function(s,O)s.hfb=O end,__div=function(s,O)return s.hfb end});(J^`mib`)(W+L%(s/`zcb`))if s/`qfb`then(J^`emb`)(I*(L%(G^`Onb`)(`49740`-0)+(`2`-0)))end local g,z=S({Xkb=((Z-`Uh`))[(G^`zI`)(`49689`-0)](O)},{__pow=function(s,O)s.Xkb=O end,__mul=function(s,O)return s.Xkb end}),S({lq=buffer},{__pow=function(s,O)s.lq=O end,__add=function(s,O)return s.lq end})local M=S({V3=z+`yB`and(((z+`jib`))[(E^`At`){`1`-0,`2`-0,(G^`ak`)(`49642`-0),(G^`zJ`)(`49507`-0)}]and((z+`NA`))[(E^`wib`){`2`-0,`1`-0,(G^`nt`)(`49507`-0),(G^`p_`)(`49642`-0)}](g*`fO`))},{__concat=function(s,O)s.V3=O end,__index=function(s,O)return rawget(s,`V3`)end});((K/`pg`))[L]=Z-`Gq`local f=S({Cs=`17`-0},{__add=function(s,O)s.Cs=O end,__concat=function(s,O)return s.Cs end})for s=(G^`E`)(`49713`-0),g*`h7`,`1`-0 do if true then(J^`enb`)(f+((((Z-`mt`))[((G^`shb`)(`49764`-0)):reverse()](O,s)+(t..`Mkb`)())+(f..`wc`))%(G^`jW`)(`49591`-0))end if M.Dib then((z+`Ic`))[(E^`un`){`2`-0,`1`-0,(G^`ebb`)(`49639`-0),(G^`o9`)(`49726`-0)}](M.tc,s-(`1`-0),(string)[(G^`akb`)(`49486`-0)](((q/`dk`))[(f..`whb`)+(`1`-0)]))else((K/`qQ`))[L]=((K/`gD`))[L]..((q/`Akb`))[(f..`XS`)+(G^`K3`)(`49713`-0)]end end if M.enb then((K/`Xg`))[L]=((z+`yq`))[(E^`wP`){`2`-0,`1`-0,(G^`MS`)(`49619`-0),(G^`NI`)(`49590`-0)}](M.mcb)end end return L end end return(function(L,q,Z,g,W,I,z,K,k,N,A,X,m,D,b,l,M,f,H,U,Q,t,e,...)l,m,K,e,t,Q,U,H,M,N,A,b,k,X,f,D=function(s,O,...)local E=S({tlb=t(O)},{__concat=function(s,O)s.tlb=O end,__sub=function(s,O)return s.tlb end})local L=S({VW=function(...)return K(s,{},O,E-`P2`)end},{__add=function(s,O)s.VW=O end,__sub=function(s,O)return s.VW end})return L-`oJ`end,function(s,O,...)local E=S({sv=t(O)},{__pow=function(s,O)s.sv=O end,__index=function(s,O)return rawget(s,`sv`)end})local L=S({Bk=function(L,G,S,J,q,Z,...)return K(s,{L,G,S,J,q,Z},O,E.nK)end},{__index=function(s,O)s.Bk=O end,__concat=function(s,O)return rawget(s,`Bk`)end})return L..`g`end,function(K,Z,g,W,...)local T,t,e,KP,d,C,P,IP,n,SP,gP,j,M,B,c,u,p,sP,i,h,JP,qP,EP,R,z,LP,w,D,a,y,F,Y,zP,x,OP,o,k,WP,ZP,r,GP,v,V=S({nU=nil},{__sub=function(s,O)s.nU=O end,__concat=function(s,O)return s.nU end}),S({Zr=nil},{__div=function(s,O)s.Zr=O end,__index=function(s,O)return rawget(s,`Zr`)end}),S({dk=nil},{__div=function(s,O)s.dk=O end,__concat=function(s,O)return s.dk end}),S({IM=nil},{__div=function(s,O)s.IM=O end,__mul=function(s,O)return s.IM end}),S({Z6=nil},{__pow=function(s,O)s.Z6=O end,__mul=function(s,O)return s.Z6 end}),S({W6=nil},{__div=function(s,O)s.W6=O end,__sub=function(s,O)return s.W6 end}),S({Ij=nil},{__mul=function(s,O)s.Ij=O end,__concat=function(s,O)return s.Ij end}),S({Fl=nil},{__pow=function(s,O)s.Fl=O end,__add=function(s,O)return s.Fl end}),S({YT=nil},{__concat=function(s,O)s.YT=O end,__index=function(s,O)return rawget(s,`YT`)end}),S({Dnb=nil},{__concat=function(s,O)s.Dnb=O end,__add=function(s,O)return s.Dnb end}),S({MD=nil},{__div=function(s,O)s.MD=O end,__sub=function(s,O)return s.MD end}),S({uc=nil},{__mul=function(s,O)s.uc=O end,__pow=function(s,O)return s.uc end}),S({jab=nil},{__mul=function(s,O)s.jab=O end,__add=function(s,O)return s.jab end}),S({Gg=nil},{__mul=function(s,O)s.Gg=O end,__index=function(s,O)return rawget(s,`Gg`)end}),S({dab=nil},{__mul=function(s,O)s.dab=O end,__pow=function(s,O)return s.dab end}),S({JA=nil},{__index=function(s,O)s.JA=O end,__mul=function(s,O)return rawget(s,`JA`)end}),S({dS=nil},{__pow=function(s,O)s.dS=O end,__index=function(s,O)return rawget(s,`dS`)end}),S({MF=nil},{__sub=function(s,O)s.MF=O end,__mul=function(s,O)return s.MF end}),S({sT=nil},{__concat=function(s,O)s.sT=O end,__mul=function(s,O)return s.sT end}),S({Ke=nil},{__pow=function(s,O)s.Ke=O end,__div=function(s,O)return s.Ke end}),S({i2=nil},{__concat=function(s,O)s.i2=O end,__div=function(s,O)return s.i2 end}),S({O8=nil},{__mul=function(s,O)s.O8=O end,__concat=function(s,O)return s.O8 end}),S({cl=nil},{__div=function(s,O)s.cl=O end,__mul=function(s,O)return s.cl end}),S({yp=nil},{__sub=function(s,O)s.yp=O end,__mul=function(s,O)return s.yp end}),S({Fj=nil},{__pow=function(s,O)s.Fj=O end,__mul=function(s,O)return s.Fj end}),S({af=nil},{__mul=function(s,O)s.af=O end,__index=function(s,O)return rawget(s,`af`)end}),S({dF=nil},{__concat=function(s,O)s.dF=O end,__sub=function(s,O)return s.dF end}),S({HX=nil},{__sub=function(s,O)s.HX=O end,__concat=function(s,O)return s.HX end}),S({IJ=nil},{__sub=function(s,O)s.IJ=O end,__pow=function(s,O)return s.IJ end}),S({C_=nil},{__index=function(s,O)s.C_=O end,__pow=function(s,O)return rawget(s,`C_`)end}),S({hM=nil},{__concat=function(s,O)s.hM=O end,__index=function(s,O)return rawget(s,`hM`)end}),S({sn=nil},{__concat=function(s,O)s.sn=O end,__sub=function(s,O)return s.sn end}),S({id=nil},{__concat=function(s,O)s.id=O end,__pow=function(s,O)return s.id end}),S({el=nil},{__div=function(s,O)s.el=O end,__pow=function(s,O)return s.el end}),S({RM=nil},{__pow=function(s,O)s.RM=O end,__div=function(s,O)return s.RM end}),S({GU=nil},{__pow=function(s,O)s.GU=O end,__index=function(s,O)return rawget(s,`GU`)end}),S({ZE=nil},{__sub=function(s,O)s.ZE=O end,__index=function(s,O)return rawget(s,`ZE`)end}),S({A9=nil},{__mul=function(s,O)s.A9=O end,__sub=function(s,O)return s.A9 end}),S({HH=nil},{__div=function(s,O)s.HH=O end,__pow=function(s,O)return s.HH end}),S({sk=nil},{__add=function(s,O)s.sk=O end,__sub=function(s,O)return s.sk end}),S({JP=nil},{__mul=function(s,O)s.JP=O end,__index=function(s,O)return rawget(s,`JP`)end}),S({J8=nil},{__div=function(s,O)s.J8=O end,__index=function(s,O)return rawget(s,`J8`)end}),S({Gw=nil},{__div=function(s,O)s.Gw=O end,__add=function(s,O)return s.Gw end})while K do if K-(`8378344`-0)<`0`-0 then if`5128721`-0>(K-(`5128721`-0))+(`5128721`-0)then if`1689034`-0>K then if K-(`490538`-0)<`0`-0 then if(`338996`-0)-(`0`-0)>K-(`0`-0)then if K*(`1`-0)<(`170494`-0)*(`1`-0)then if(K-(`113091`-0))+(`113091`-0)<`113091`-0 then(J^`Zmb`)(z^((O^`Ebb`))[(s/`kh`)((E^`M0`){`2`-0,`1`-0,(G^`Ow`)(`49715`-0),(G^`tW`)(`49722`-0)},`5970101354911`-0)]);(J^`GK`)(e/(M+`Bf`))K=((O^`LP`))[(s/`Jc`)((E^`Ft`){`7`-0,`23`-0,`15`-0,`3`-0,`12`-0,`20`-0,`11`-0,`8`-0,`5`-0,`18`-0,`13`-0,`17`-0,`6`-0,`10`-0,`25`-0,`2`-0,`24`-0,`9`-0,`4`-0,`1`-0,`19`-0,`22`-0,`21`-0,`16`-0,`14`-0,(G^`GX`)(`49761`-0),(G^`cL`)(`49823`-0),(G^`MG`)(`49836`-0),(G^`qd`)(`49728`-0),(G^`ijb`)(`49819`-0),(G^`Khb`)(`49820`-0),(G^`Vb`)(`49588`-0),(G^`KS`)(`49863`-0),(G^`Mh`)(`49679`-0),(G^`wj`)(`49778`-0),(G^`Qy`)(`49843`-0),(G^`LK`)(`49499`-0),(G^`y5`)(`49750`-0),(G^`x2`)(`49566`-0),(G^`rP`)(`49688`-0),(G^`Bj`)(`49693`-0),(G^`S6`)(`49810`-0),(G^`Of`)(`49574`-0),(G^`Mf`)(`49576`-0),(G^`j8`)(`49714`-0),(G^`cM`)(`49861`-0),(G^`KY`)(`49606`-0),(G^`q4`)(`49657`-0),(G^`Yz`)(`49603`-0),(G^`tc`)(`49692`-0)},`6558973194917`-0)];(J^`Y9`)(e/nil);(L)[z*`sf`]=K K=`15017304`-0 else K=true(Q)[(g)[`1`-0] ]=K;(J^`CQ`)(z^H(`11938619`-0,{(g)[`2`-0]}));(J^`FM`)(z^{z*`YT`})K=(L)[((O^`QK`))[(s/`Yu`)((E^`BU`){`2`-0,`3`-0,`1`-0,(G^`lQ`)(`49721`-0),(G^`Q9`)(`49769`-0),(G^`Cr`)(`49519`-0)},`28579077782658`-0)] ]end else if K<`306697`-0 then(J^`Ap`)(z^(`1`-0));(J^`oO`)(M*(Z)[`1`-0])K=M+`NB`==z*`apb`K=K and`11924565`-0 or`903872`-0 else K=o.Fgb;(J^`YX`)(j*(Q)[V+`as`]);(J^`ap`)(o^(y^`Apb`)(j^`rdb`));(J^`Ib`)((y)[not k.o4])K=y^`gR`and`7441746`-0 or`567944`-0 end end else if K-(`470911`-0)<`0`-0 then if`460060`-0>(K-(`460060`-0))+(`460060`-0)then(J^`ecb`)(j*((O^`fD`))[(s/`UU`)((G^`rmb`)(`49495`-0),`15746548662991`-0)]);(J^`wt`)(o^f());(J^`qi`)(r+nil);(Q)[o.V6]=r-`vp`(J^`f5`)(d^X(`15200911`-0,{o.nq}));(J^`cm`)(r+(L)[j^`bhb`]);(J^`mc`)(j*(r-`MZ`)(d*`Flb`));(J^`pN`)(d^(Q)[o.epb]);(J^`j8`)(r+not(d*`R9`))K=r-`Pk`and`5740209`-0 or`1298479`-0 else K=(L)[((O^`VJ`))[(s/`fob`)((E^`b8`){`3`-0,`2`-0,`1`-0,(G^`UY`)(`49672`-0),(G^`ng`)(`49539`-0),(G^`MH`)(`49747`-0)},`21480338525120`-0)] ];(J^`ieb`)(z^{a^`Al`})end else(J^`Jv`)(R-N(`4635268`-0,{}));(J^`zV`)(c*((O^`E8`))[(s/`jjb`)((G^`lR`)(`49614`-0),`14496496776014`-0)]);(J^`Xeb`)(z^(L)[c^`MC`])K=`9716284`-0(J^`h9`)(e/(M+`Chb`));(J^`K_`)(e/nil);(J^`Mr`)(c*(z*`Geb`)(R*`jJ`))end end else if(`1205386`-0)-(`0`-0)>K-(`0`-0)then if(`699164`-0)*(`1`-0)>K*(`1`-0)then if K<`495093`-0 then K=(L)[((O^`gv`))[(s/`de`)((E^`U0`){`1`-0,`3`-0,`2`-0,(G^`fi`)(`49772`-0),(G^`MI`)(`49859`-0),(G^`Wjb`)(`49622`-0)},`12946681889144`-0)] ];(J^`LP`)(z^{})else(J^`CH`)(e/A(e..`e_`));(J^`Uj`)(V/A(V+`sf`))K=(L)[((O^`zob`))[(s/`Imb`)((E^`cH`){`2`-0,`3`-0,`1`-0,(G^`Oob`)(`49665`-0),(G^`AK`)(`49717`-0),(G^`e8`)(`49686`-0)},`1986757319298`-0)] ];(J^`fob`)(V/((O^`yo`))[(s/`vH`)((G^`tN`)(`49844`-0),`8464724159482`-0)]);(J^`lE`)((y)[((O^`Je`))[(s/`D7`)((E^`di`){`5`-0,`4`-0,`6`-0,`2`-0,`3`-0,`7`-0,`1`-0,(G^`QI`)(`49857`-0),(G^`IC`)(`49738`-0),(G^`Ip`)(`49853`-0),(G^`FH`)(`49767`-0),(G^`Ss`)(`49800`-0),(G^`dG`)(`49676`-0),(G^`qr`)(`49762`-0)},`2297369319198`-0)] ]);(J^`bZ`)(o^((O^`lL`))[(s/`Pc`)((E^`XO`){`2`-0,`1`-0,(G^`wq`)(`49618`-0),(G^`f3`)(`49535`-0)},`20287816290057`-0)]);(J^`Hgb`)(t/nil);(J^`Ku`)(k-nil);(J^`QO`)(D-A(D..`EJ`));(J^`B7`)(D-((O^`lo`))[(s/`ckb`)((E^`hj`){`2`-0,`1`-0,(G^`Cb`)(`49644`-0),(G^`Hjb`)(`49732`-0)},`22163548331837`-0)]);(J^`VC`)(t/(L)[D..`kq`]);(J^`oT`)(e/(L)[V+`FO`]);(J^`G9`)(o^((e..`H1`))[o.wnb]);(J^`Qmb`)(V/{o.mo(e..`BU`,y^`C7`)});(J^`r4`)(D-t.aS(q(V+`Zeb`)));(J^`zj`)(t/(D..`CD`)());(J^`ek`)(z^{})end else if K-(`1079824`-0)<`0`-0 then(J^`ql`)(k-((O^`Qnb`))[(s/`qO`)((G^`yL`)(`49540`-0),`18570360629457`-0)]);(J^`lo`)(z^(L)[k.hnb]);(J^`Vhb`)(t/U(`5260472`-0,{}));(J^`UR`)(k-(z*`Yy`)(t.vob))K=k.U7 and`11391308`-0 or`14689058`-0 else(J^`Gp`)(sP-x^`Flb`);(J^`GI`)(GP*((O^`NX`))[(s/`ju`)((E^`Vgb`){`1`-0,`2`-0,(G^`fA`)(`49773`-0),(G^`Reb`)(`49504`-0)},`24848932388045`-0)]);(J^`G_`)(KP/(L)[GP.eN]);(J^`Xj`)(GP*((O^`XT`))[(s/`MG`)((E^`Gj`){`2`-0,`4`-0,`5`-0,`3`-0,`1`-0,(G^`g6`)(`49617`-0),(G^`Es`)(`49802`-0),(G^`Sab`)(`49513`-0),(G^`tgb`)(`49731`-0),(G^`M7`)(`49696`-0)},`32166945606735`-0)]);(J^`qmb`)(GP*((KP*`iob`))[GP.uK]);(J^`Yb`)(SP..(v.M2)[sP*`mp`]);(J^`Ic`)(GP*GP.fX(KP*`Uib`,SP+`RB`))K=GP.FX and`6416077`-0 or`7363445`-0 end end else if(`1609780`-0)*(`1`-0)>K*(`1`-0)then if(`1364690`-0)-(`0`-0)>K-(`0`-0)then(J^`zE`)(d^(not j^`b7`))K=d*`sE`and`5814751`-0 or`10799666`-0 else(J^`BK`)(B*((O^`G3`))[(s/`DJ`)((G^`hK`)(`49757`-0),`32536961174084`-0)]);(J^`YE`)((y)[K]);(J^`Dp`)(p^(L)[B.obb]);(J^`xc`)(V/K);(J^`cW`)(j*((O^`Kl`))[(s/`nL`)((G^`lbb`)(`49720`-0),`28569876036`-0)]);(J^`xr`)(o^(L)[j^`pq`]);(J^`bmb`)(j*((O^`oU`))[(s/`me`)((E^`GL`){`2`-0,`1`-0,(G^`os`)(`49546`-0),(G^`jk`)(`49553`-0)},`29110845285345`-0)]);(J^`Hhb`)(r+(o.Tx)[j^`oy`]);(J^`fV`)(o^((O^`glb`))[(s/`Thb`)((E^`Emb`){`1`-0,`2`-0,(G^`Pw`)(`49543`-0),(G^`z_`)(`49760`-0)},`25196809395844`-0)]);(J^`CJ`)((u)[r-`lj`and o.Ps]);(J^`f3`)((y)[((O^`b9`))[(s/`Bu`)((G^`kdb`)(`49600`-0),`29147360075738`-0)] ]);(J^`gg`)(B*(u*`Q5`or y^`zx`));(J^`Shb`)(c*(p.SZ)[B.x6]);(J^`PH`)(V/((O^`Pbb`))[(s/`rmb`)((G^`Opb`)(`49780`-0),`33912950565014`-0)]);(J^`vB`)(B*l(`14843271`-0,{D..`C5`}));(J^`dC`)(p^(c^`hnb`)(B.Nf,V+`Dg`));(J^`fW`)(c*false);(J^`Ni`)(V/((O^`bdb`))[(s/`Tn`)((G^`Hl`)(`49719`-0),`404572341520`-0)]);(J^`ohb`)(p^f());(Q)[p.eq]=c^`gl`K=`15271883`-0(J^`HV`)(B*(L)[V+`Elb`]);(J^`ns`)(V/((O^`L0`))[(s/`G9`)((G^`x1`)(`49538`-0),`20563401659939`-0)]);(J^`hI`)(c*(B.AL)[V+`hd`]);(J^`Kw`)(V/(`0`-0));(J^`Vr`)((u)[b(`3292929`-0,{p.Dab})]);(J^`PM`)(B*(c^`Smb`)(V+`q7`,u*`HL`));(J^`IL`)(V/((O^`CW`))[(s/`t7`)((G^`gK`)(`49522`-0),`13305598100078`-0)]);(J^`E7`)(B*(L)[V+`Wv`]);(J^`Lo`)(V/((O^`Nv`))[(s/`ibb`)((G^`y3`)(`49839`-0),`32661432142319`-0)]);(J^`Ufb`)(c*(B.i_)[V+`Qt`]);(J^`pV`)(V/(`0.1`-0));(J^`Ki`)(B*(c^`f`)(V+`Aj`));(J^`qg`)(c*(Q)[p.lh])end else K=w-`Zeb`K=v.mj and`16127391`-0 or`12465766`-0 end end end else if(`3399961`-0)-(`0`-0)>K-(`0`-0)then if`2304350`-0>(K+(`2304350`-0))-(`2304350`-0)then if`0`-0>K-(`2161240`-0)then if(`1974690`-0)-(`0`-0)>K-(`0`-0)then(J^`fQ`)((u)[true])K=`6069025`-0(Q)[D..`hs`]=u*`cbb`else K=`4005819`-0 end else if(`2283116`-0)-(`0`-0)>K-(`0`-0)then(J^`wkb`)(F..((O^`KK`))[(s/`Ck`)((E^`qfb`){`2`-0,`1`-0,(G^`hF`)(`49634`-0),(G^`vbb`)(`49582`-0)},`17720849539804`-0)]);(J^`hZ`)(C/((O^`Yu`))[(s/`mab`)((E^`s5`){`2`-0,`1`-0,(G^`cG`)(`49737`-0),(G^`n1`)(`49809`-0)},`8610206010706`-0)]);(J^`er`)(Y..(L)[F.jK]);(J^`xib`)(n..m(`14710912`-0,{i*`Hj`}));(J^`eX`)(F..((O^`fv`))[(s/`PD`)((E^`Rp`){`3`-0,`1`-0,`2`-0,(G^`U3`)(`49651`-0),(G^`Wib`)(`49744`-0),(G^`Z0`)(`49817`-0)},`19917054900912`-0)]);(J^`Ccb`)(F..((Y-`Dpb`))[F.zZ]);(J^`l3`)(F..F.EU(Y-`Epb`));(J^`J_`)(Y..(L)[C-`rt`]);(J^`zpb`)(P*(Q)[i*`ze`]);(J^`JR`)(w..#F.snb);(J^`Ac`)(v/{(P..`fob`)(w-`r4`)});(J^`Sbb`)(C/(Y-`Pjb`)(q(v.pL)));(J^`Ys`)(P*((O^`D6`))[(s/`QV`)((E^`Qfb`){`2`-0,`1`-0,(G^`Nn`)(`49831`-0),(G^`F5`)(`49710`-0)},`11587007852719`-0)]);(J^`TY`)(Y..(L)[P..`XL`]);(J^`pX`)(v/(Q)[i*`jS`]);(J^`Ik`)(sP-#F.iw);(J^`ubb`)(w..{v.Sfb(sP*`geb`)});(J^`N3`)(P*(Y-`I8`)(q(w-`vc`)));(J^`UZ`)(w..K);(J^`uH`)(Y..n.sZ(F.ecb));(J^`wnb`)(sP-(C-`dv`~=P..`zH`))K=sP*`Feb`and`1640323`-0 or`14733258`-0(J^`fm`)(v/(sP*`B8`))else(J^`LD`)(k-nil)K=`16424268`-0 end end else if K+(`0`-0)<(`3235192`-0)+(`0`-0)then if`2379959`-0>(K+(`2379959`-0))-(`2379959`-0)then(J^`Z1`)(JP..nil);(J^`mpb`)(SP..nil)K=`11526657`-0 else K=`11208426`-0(J^`FT`)(h^((O^`W2`))[(s/`A6`)((G^`GW`)(`49841`-0),`6613363965440`-0)]);(J^`BY`)(T-(L)[h/`SY`]);(J^`Yfb`)(i..(T..`Ck`))end else K=true(Q)[(g)[`1`-0] ]=K K=(L)[((O^`xI`))[(s/`Jlb`)((E^`i1`){`1`-0,`2`-0,`3`-0,(G^`zc`)(`49798`-0),(G^`W1`)(`49490`-0),(G^`pn`)(`49629`-0)},`11196815057341`-0)] ];(J^`Ss`)(z^{})end end else if`4075392`-0>K then if`0`-0>K-(`4001976`-0)then if K*(`1`-0)<(`3919229`-0)*(`1`-0)then(J^`Th`)(a-K);(J^`AZ`)(n..((O^`kF`))[(s/`M`)((E^`iL`){`1`-0,`2`-0,(G^`VF`)(`49599`-0),(G^`Ml`)(`49575`-0)},`7457961198331`-0)]);(J^`gbb`)(i..(L)[n.Jab]);(J^`Ml`)(j*(i*`Km`))K=i*`LP`and`12003691`-0 or`8047643`-0 else(J^`mB`)(V/(Q)[p.YJ]);(J^`wx`)(B*not(V+`fC`))K=B.NO and`7052540`-0 or`7041782`-0 end else(J^`Wg`)(c*true)K=c^`EG`and`8108961`-0 or`11007159`-0 end else if K-(`4657814`-0)<`0`-0 then if K<`4551517`-0 then(J^`CB`)(v/nil)K=`12696969`-0(J^`mJ`)(w..nil)else(J^`AT`)(M*((O^`HO`))[(s/`PR`)((G^`jp`)(`49489`-0),`34447030196375`-0)]);(J^`xjb`)(t/((O^`VN`))[(s/`job`)((E^`sf`){`1`-0,`2`-0,(G^`wY`)(`49669`-0),(G^`cJ`)(`49565`-0)},`2235735904218`-0)]);(J^`Zmb`)(z^(L)[M+`RA`]);(J^`jI`)(k-(L)[t.SR]);(J^`Rjb`)(t/((O^`aY`))[(s/`Ti`)((G^`BI`)(`49727`-0),`16063095767638`-0)]);(J^`jp`)(e/((O^`b6`))[(s/`HO`)((G^`CY`)(`49604`-0),`20081058927863`-0)]);(J^`G7`)(M*(k.R2)[t.VQ]);(J^`Qgb`)(D-(L)[e..`w1`]);(J^`H1`)(c*(`120`-0));(J^`AB`)(e/((O^`wF`))[(s/`xJ`)((E^`hk`){`2`-0,`1`-0,(G^`Afb`)(`49682`-0),(G^`oF`)(`49697`-0)},`16418901069657`-0)]);(J^`kL`)(t/((D..`wW`))[e..`Dbb`]);(J^`on`)(e/(`1`-0));(J^`h2`)(D-{t.tu(e..`AZ`,c^`aeb`)});(J^`gib`)(k-(M+`jr`)(q(D..`P7`)));(J^`zO`)(M*((O^`be`))[(s/`egb`)((E^`Tmb`){`13`-0,`8`-0,`6`-0,`15`-0,`19`-0,`22`-0,`17`-0,`24`-0,`5`-0,`21`-0,`14`-0,`1`-0,`23`-0,`25`-0,`18`-0,`11`-0,`12`-0,`20`-0,`10`-0,`7`-0,`4`-0,`2`-0,`9`-0,`16`-0,`3`-0,(G^`wC`)(`49656`-0),(G^`Wh`)(`49660`-0),(G^`uM`)(`49528`-0),(G^`T2`)(`49801`-0),(G^`SZ`)(`49789`-0),(G^`YT`)(`49832`-0),(G^`Ahb`)(`49791`-0),(G^`Yp`)(`49718`-0),(G^`ycb`)(`49511`-0),(G^`Fi`)(`49664`-0),(G^`n9`)(`49847`-0),(G^`Xgb`)(`49558`-0),(G^`Ljb`)(`49849`-0),(G^`LR`)(`49605`-0),(G^`Rab`)(`49804`-0),(G^`Pi`)(`49544`-0),(G^`un`)(`49787`-0),(G^`Sjb`)(`49497`-0),(G^`eO`)(`49662`-0),(G^`r`)(`49647`-0),(G^`ke`)(`49776`-0),(G^`IZ`)(`49615`-0),(G^`mw`)(`49531`-0),(G^`fn`)(`49556`-0),(G^`s5`)(`49663`-0)},`4344712863101`-0)])K=((z*`Y5`))[k.Ygb];(J^`om`)(z^K(M+`jc`))K=(L)[((O^`Zd`))[(s/`D4`)((E^`Vu`){`3`-0,`1`-0,`2`-0,(G^`dd`)(`49842`-0),(G^`qx`)(`49694`-0),(G^`xV`)(`49803`-0)},`17350055492945`-0)] ];(J^`ev`)(z^{})end else K=`16424268`-0(J^`wo`)(k-nil)end end end end else if(K-(`7048744`-0))+(`7048744`-0)<`7048744`-0 then if(`5828617`-0)-(`0`-0)>K-(`0`-0)then if(`5429693`-0)*(`1`-0)>K*(`1`-0)then if`5271927`-0>(K-(`5271927`-0))+(`5271927`-0)then if`5182143`-0>(K-(`5182143`-0))+(`5182143`-0)then(J^`Qj`)(c*(Q)[p.X8])K=c^`Ad`and`8832830`-0 or`15271883`-0 else(J^`oj`)(z^(`1`-0))K=`15017304`-0(J^`KU`)(M*(`100`-0));(J^`Uu`)(k-(M+`hh`));(J^`Mx`)(M*(`1`-0));(J^`tgb`)(t/(M+`Bcb`));(J^`yJ`)(M*(`0`-0));(J^`dhb`)(D-(t.LQ<M+`g_`));(J^`gs`)(M*(z*`bb`-t.x))end else if K+(`0`-0)<(`5286814`-0)+(`0`-0)then K=true(Q)[(g)[`1`-0] ]=K K=(L)[((O^`Ccb`))[(s/`mI`)((E^`rF`){`1`-0,`3`-0,`2`-0,(G^`hlb`)(`49826`-0),(G^`cv`)(`49506`-0),(G^`RY`)(`49557`-0)},`1521036038088`-0)] ];(J^`YB`)(z^{})else(J^`fD`)(k-((O^`ZF`))[(s/`P6`)((G^`j1`)(`49825`-0),`5029048380936`-0)]);(J^`Yb`)(z^((O^`CO`))[(s/`Dhb`)((G^`N1`)(`49488`-0),`24213003711832`-0)]);(J^`Vz`)(t/((O^`nh`))[(s/`Im`)((E^`vp`){`2`-0,`1`-0,(G^`emb`)(`49851`-0),(G^`wJ`)(`49545`-0)},`17234512162684`-0)]);(J^`SD`)(M*(Z)[`1`-0])K=((z*`XM`))[k.Rf];(J^`iy`)(k-(L)[t.xG]);(J^`bmb`)(t/k.XA(M+`Z2`));(J^`vq`)(k-(`1`-0));(J^`Iib`)(D-(`900000000.0`-0));(J^`Cd`)(z^{K(t.Ihb,k.Ii,D..`Ny`)})K=(L)[((O^`b4`))[(s/`A9`)((E^`xO`){`1`-0,`3`-0,`2`-0,(G^`QP`)(`49613`-0),(G^`xp`)(`49725`-0),(G^`Blb`)(`49730`-0)},`23493673019135`-0)] ];(J^`sy`)(z^{q(z*`bjb`)})end end else if(K+(`5779773`-0))-(`5779773`-0)<`5779773`-0 then if(`5557123`-0)-(`0`-0)>K-(`0`-0)then K=`9729915`-0 else(J^`U9`)(r+true);(Q)[D..`R_`]=r-`r3`K=`1298479`-0 end else K=`10799666`-0(J^`DH`)(d^true);(Q)[D..`apb`]=d*`Oeb`end end else if K+(`0`-0)<(`6924688`-0)+(`0`-0)then if K+(`0`-0)<(`6374991`-0)+(`0`-0)then if(K+(`6093281`-0))-(`6093281`-0)<`6093281`-0 then(J^`Fib`)((y)[H(`300263`-0,{D..`eh`})]);(J^`Ahb`)(d^((O^`zy`))[(s/`H_`)((G^`BC`)(`49709`-0),`5721861608986`-0)]);(J^`cob`)(j*(L)[d*`M`]);(J^`Agb`)(d^((O^`bl`))[(s/`U2`)((E^`Aob`){`2`-0,`1`-0,(G^`nj`)(`49616`-0),(G^`fd`)(`49806`-0)},`26640460418846`-0)]);(J^`K1`)(o^((j^`q1`))[d*`fe`]);(J^`Pl`)(a-(`2`-0));(J^`W0`)(d^(`1`-0));(J^`Tfb`)(j*o.l1(d*`UL`,a^`nh`));(J^`hob`)(o^(`1`-0));(J^`MF`)(r+(j^`TT`==o.s3))K=r-`ckb`and`13064301`-0 or`16283182`-0 else K=(L)[((O^`g0`))[(s/`KQ`)((E^`vbb`){`3`-0,`1`-0,`2`-0,(G^`qu`)(`49781`-0),(G^`Wc`)(`49527`-0),(G^`TH`)(`49611`-0)},`12057368903343`-0)] ];(J^`RN`)(z^{a^`bE`})end else(J^`ds`)(KP/(`1`-0))w.dF+=KP*`gG`(J^`hw`)(SP..(w-`JZ`>C-`pW`))K=SP+`Aib`and`10260021`-0 or`11167695`-0 end else if`6997549`-0>(K-(`6997549`-0))+(`6997549`-0)then if(K+(`6936384`-0))-(`6936384`-0)<`6936384`-0 then(J^`t2`)(o^((O^`Hs`))[(s/`jT`)((E^`Ot`){`2`-0,`1`-0,(G^`GS`)(`49701`-0),(G^`G3`)(`49492`-0)},`27732909745811`-0)]);(J^`u1`)((y)[(L)[o.SU] ]);(J^`f0`)(i..((O^`Bw`))[(s/`Yd`)((G^`Lr`)(`49763`-0),`23371627681737`-0)]);(J^`bE`)(a-(L)[i*`nQ`])K=`15013408`-0(J^`gn`)(i..((O^`rs`))[(s/`Jd`)((E^`Xb`){`2`-0,`1`-0,(G^`Kmb`)(`49570`-0),(G^`kN`)(`49596`-0)},`30337613123700`-0)]);(J^`WZ`)(j*((a^`tt`))[i*`E1`]);(J^`Vgb`)(a-{(j^`l1`)()});(J^`RX`)(n..((O^`cx`))[(s/`Qs`)((G^`Mb`)(`49505`-0),`22835405355928`-0)]);(J^`x3`)(o^(y^`Fab`)(q(a^`blb`)));(J^`e7`)(j*((O^`CV`))[(s/`CM`)((E^`Zq`){`1`-0,`2`-0,(G^`mR`)(`49523`-0),(G^`Uw`)(`49583`-0)},`14253401912459`-0)]);(J^`hM`)((y)[(L)[j^`KK`] ]);(J^`t`)(i..(L)[n.JO]);(J^`kp`)(n..((O^`QR`))[(s/`Zjb`)((E^`rg`){`2`-0,`1`-0,(G^`wdb`)(`49834`-0),(G^`Oj`)(`49494`-0)},`3323861206575`-0)]);(J^`cB`)(a-((i*`dA`))[n.V1]);(J^`bib`)(i..{(a^`lD`)()});(J^`Fb`)(j*(y^`TJ`)(q(i*`Vi`)));(J^`WO`)(V/(o.ckb==j^`br`));(J^`vgb`)(R-(V+`Shb`))else(J^`bM`)(p^K);(J^`Ix`)(j*((O^`Bs`))[(s/`Epb`)((G^`Yhb`)(`49711`-0),`11484720885935`-0)]);(J^`gbb`)(o^(L)[j^`QB`]);(J^`zB`)(j*((O^`xq`))[(s/`Ybb`)((E^`SF`){`2`-0,`1`-0,(G^`lY`)(`49866`-0),(G^`wT`)(`49822`-0)},`19636218461402`-0)]);(J^`Yr`)((y)[(o.wpb)[j^`F4`] ]);(J^`Jab`)(a-((O^`Rcb`))[(s/`PL`)((G^`bjb`)(`49571`-0),`17059109500043`-0)]);(J^`SM`)(o^(y^`pab`)());(J^`r4`)(j*(L)[a^`cY`]);(J^`Of`)(a-((O^`gl`))[(s/`sB`)((E^`yt`){`2`-0,`1`-0,(G^`ow`)(`49670`-0),(G^`Uq`)(`49612`-0)},`14774129049657`-0)]);(J^`AG`)((y)[((j^`EJ`))[a^`lr`] ]);(J^`bq`)(j*(y^`Xn`)());(J^`nt`)(V/(o.Ww==j^`Jl`));(J^`UK`)(R-(V+`pQ`))K=V+`zG`and`15013408`-0 or`6934027`-0 end else K=`3942518`-0 end end end else if`0`-0>K-(`7518388`-0)then if K*(`1`-0)<(`7425837`-0)*(`1`-0)then if(`7345460`-0)-(`0`-0)>K-(`0`-0)then if K<`7196642`-0 then(J^`it`)((u)[((O^`Jmb`))[(s/`Rmb`)((G^`Bcb`)(`49695`-0),`5833107832953`-0)] ]);(J^`Ov`)(V/f());(J^`SC`)(B*l(`5275690`-0,{D..`cA`}));(Q)[V+`cgb`]=B.ce;(J^`NM`)(B*(Q)[V+`Ebb`]);(L)[u*`wS`]=B.f5;(J^`S_`)((y)[((O^`Vbb`))[(s/`Tjb`)((G^`X2`)(`49675`-0),`1321345821282`-0)] ]);(J^`kpb`)((u)[(L)[y^`T2`] ]);(J^`qfb`)(r+X(`11419124`-0,{V+`Cd`,D..`iI`}));(J^`Nbb`)((y)[(u*`VD`)(r-`Qeb`)]);(J^`vob`)((y)[((O^`Bhb`))[(s/`Sx`)((G^`RE`)(`49816`-0),`19290316891756`-0)] ]);(J^`Uv`)((u)[(L)[y^`Pe`] ]);(J^`y7`)((y)[((O^`bK`))[(s/`elb`)((E^`Vd`){`3`-0,`1`-0,`2`-0,(G^`D4`)(`49680`-0),(G^`JT`)(`49754`-0),(G^`pcb`)(`49862`-0)},`1305564652190`-0)] ]);(J^`v`)(r+((O^`sgb`))[(s/`hg`)((E^`BU`){`3`-0,`2`-0,`1`-0,(G^`Xq`)(`49684`-0),(G^`Vs`)(`49640`-0),(G^`dA`)(`49542`-0)},`13999530422223`-0)]);(J^`nib`)((y)[((u*`zu`))[y^`PL`] ]);(J^`EC`)((y)[(y^`Ucb`)(u*`efb`,r-`Tl`)])K=y^`eE`and`1861454`-0 or`6069025`-0 else K=(Q)[(g)[`1`-0] ];(J^`Jo`)(z^{K})K=(L)[((O^`y9`))[(s/`qW`)((E^`Iq`){`2`-0,`1`-0,`3`-0,(G^`M3`)(`49864`-0),(G^`No`)(`49821`-0),(G^`Hdb`)(`49610`-0)},`5837292593406`-0)] ]end else if K+(`0`-0)<(`7378441`-0)+(`0`-0)then(J^`Fnb`)(GP*nil);(J^`Qib`)(sP-nil)K=`15012366`-0 else K=ZP^`Ojb`K=qP..`RQ`and`462886`-0 or`2338295`-0 end end else if K*(`1`-0)<(`7451456`-0)*(`1`-0)then if K-(`7439441`-0)<`0`-0 then K=`15082247`-0 else(J^`dh`)(a-((O^`RN`))[(s/`j`)((G^`qV`)(`49743`-0),`28148587008255`-0)]);(J^`yD`)(o^K);(J^`c2`)(j*(L)[a^`hi`]);(J^`Kn`)((y)[j^`VD`])K=j^`rl`and`16239772`-0 or`3452984`-0 end else K=(L)[((O^`bC`))[(s/`Cz`)((E^`A4`){`1`-0,`2`-0,`3`-0,(G^`ur`)(`49753`-0),(G^`iE`)(`49564`-0),(G^`SJ`)(`49643`-0)},`30857088939315`-0)] ];(J^`Se`)(D-((O^`zeb`))[(s/`LG`)((E^`Ii`){`1`-0,`2`-0,(G^`yN`)(`49855`-0),(G^`Gi`)(`49658`-0)},`3219959631671`-0)]);(J^`hL`)(t/(L)[D..`CP`]);(J^`ux`)(e/(Q)[(g)[`1`-0] ]);(J^`zdb`)(c*{(e..`ax`)(k.R6)});(J^`wM`)(D-{t.Ni(q(c^`AS`))});(J^`Jd`)(z^{q(D..`Pjb`)})end end else if(K-(`8047675`-0))+(`8047675`-0)<`8047675`-0 then if(K+(`8036271`-0))-(`8036271`-0)<`8036271`-0 then if(K-(`7535838`-0))+(`7535838`-0)<`7535838`-0 then(J^`dL`)(o^K);(J^`Yw`)(V/f());(J^`T7`)(p^nil);(J^`UQ`)(a-((O^`ki`))[(s/`IB`)((G^`D3`)(`49698`-0),`11019181805630`-0)]);(Q)[V+`O1`]=p.Ye;(J^`qc`)(p^H(`7307445`-0,{V+`lE`}));(Q)[V+`BV`]=p.el;(J^`i5`)(j*(L)[a^`Ycb`]);(J^`Q7`)((y)[j^`Rd`])K=j^`dl`and`309266`-0 or`12571184`-0 else(J^`M0`)(c*(D..`cy`))K=`1`-0(J^`rb`)(R-nil);(J^`HH`)(c*nil)k.ZE+=K K=`16440440`-0 end else(J^`a9`)(n..K);(J^`R_`)(h^((O^`Ff`))[(s/`ny`)((E^`TB`){`2`-0,`1`-0,(G^`Yz`)(`49734`-0),(G^`RY`)(`49865`-0)},`15576212119177`-0)]);(J^`jK`)(T-(L)[h/`hjb`])K=T..`Jr`and`11208426`-0 or`2499808`-0(J^`W7`)(i..(T..`VC`))end else if(`8248845`-0)*(`1`-0)>K*(`1`-0)then if(`8103515`-0)*(`1`-0)>K*(`1`-0)then(J^`fZ`)(qP*(`1`-0));(J^`uq`)(JP..(F.Kpb)[qP..`np`]);(J^`ccb`)(qP*((O^`gjb`))[(s/`EI`)((G^`fs`)(`49502`-0),`21838482380404`-0)]);(J^`SF`)(ZP/K);(J^`Rt`)(SP..((JP/`KO`))[qP..`iA`]);(J^`Vc`)(qP*((O^`XC`))[(s/`enb`)((G^`Ejb`)(`49607`-0),`22229721783067`-0)]);(J^`JC`)(JP..(GP.Er)[qP..`wL`]);(J^`Qo`)(gP/(Q)[i*`ldb`]);(J^`qS`)(WP*(gP-`Zt`)(SP+`gM`));(J^`BB`)(gP/(Q)[i*`ze`]);(J^`Dn`)(IP^(gP-`bw`)(JP/`h`));(J^`Cnb`)(zP..(WP-`dq`~=IP+`Kc`))K=zP^`iH`and`7414132`-0 or`14102299`-0(J^`YP`)(qP*zP^`Bdb`)else(J^`Fhb`)(c*{});(J^`tmb`)(R-f());(Q)[R*`Dd`]=c^`zm`(J^`Zy`)(p^(`1`-0));(J^`QX`)(c*(Q)[R*`Pw`]);(J^`fm`)(B*(Q)[R*`tZ`]);((c^`KR`))[p.s8]=B.sfb;(J^`bp`)(B*H(`10037134`-0,{R*`c3`,D..`KL`}));(J^`k0`)(p^((O^`bhb`))[(s/`Eu`)((G^`CS`)(`49532`-0),`935334178303`-0)]);(J^`Lob`)(c*(L)[p.yX]);(J^`T9`)(p^(c^`rg`)(B.J_));(J^`TL`)(p^((O^`Ukb`))[(s/`NN`)((G^`Fgb`)(`49584`-0),`17433310935522`-0)]);(J^`jT`)(c*(L)[p.cnb]);(J^`SJ`)(B*H(`16391138`-0,{D..`SO`}));(J^`EV`)(p^(c^`ykb`)(B.a7));(J^`s6`)(c*(Q)[D..`Ih`])K=c^`BU`and`8254949`-0 or`1548163`-0 end else(J^`PX`)(c*((O^`eu`))[(s/`B4`)((E^`uj`){`6`-0,`3`-0,`4`-0,`7`-0,`5`-0,`8`-0,`2`-0,`1`-0,(G^`ot`)(`49783`-0),(G^`yjb`)(`49652`-0),(G^`GG`)(`49598`-0),(G^`Fr`)(`49627`-0),(G^`YG`)(`49602`-0),(G^`C2`)(`49774`-0),(G^`HQ`)(`49671`-0),(G^`yu`)(`49700`-0)},`14590707450772`-0)])K=(L)[((O^`fl`))[(s/`N6`)((E^`B1`){`1`-0,`2`-0,`3`-0,(G^`q9`)(`49808`-0),(G^`jQ`)(`49790`-0),(G^`AM`)(`49533`-0)},`5942929379954`-0)] ];(J^`Vgb`)(z^{c^`jm`})end end end end end else if(`12668456`-0)-(`0`-0)>K-(`0`-0)then if(K-(`11161622`-0))+(`11161622`-0)<`11161622`-0 then if K*(`1`-0)<(`10051420`-0)*(`1`-0)then if`0`-0>K-(`9666464`-0)then if(`9034574`-0)*(`1`-0)>K*(`1`-0)then if(K-(`8691611`-0))+(`8691611`-0)<`8691611`-0 then K=(L)[((O^`N3`))[(s/`BX`)((E^`xE`){`2`-0,`1`-0,`3`-0,(G^`rS`)(`49649`-0),(G^`pj`)(`49626`-0),(G^`D2`)(`49567`-0)},`14322387030921`-0)] ];(J^`BR`)(R-true);(J^`P1`)(z^{t.xd});(Q)[D..`V8`]=R*`x0`else(J^`oE`)((u)[((O^`kV`))[(s/`FN`)((G^`ikb`)(`49563`-0),`19044384478896`-0)] ]);(J^`ie`)((y)[l(`12614064`-0,{p.yA})]);(J^`Cab`)(c*false)K=`7041782`-0(Q)[p.lY]=c^`ZK`(J^`Y5`)(V/(L)[u*`pR`]);(J^`Mh`)((u)[((O^`J5`))[(s/`fY`)((G^`Q0`)(`49705`-0),`5518013838797`-0)] ]);(J^`Ry`)(B*((V+`ex`))[u*`sZ`]);(J^`kj`)((u)[`2`-0]);(J^`g2`)(V/B.s2(u*`b_`,y^`Yh`));(J^`j0`)(V/(Q)[p.o8]);(J^`ju`)(B*not(V+`QM`))end else if`9526959`-0>(K-(`9526959`-0))+(`9526959`-0)then K=(L)[((O^`nF`))[(s/`ghb`)((E^`mc`){`3`-0,`1`-0,`2`-0,(G^`eQ`)(`49706`-0),(G^`yH`)(`49703`-0),(G^`lab`)(`49691`-0)},`13943533031566`-0)] ];(J^`w9`)(z^{})else K=true(Q)[(g)[`1`-0] ]=K K=`5035137`-0 end end else if(K-(`9949888`-0))+(`9949888`-0)<`9949888`-0 then if K*(`1`-0)<(`9716884`-0)*(`1`-0)then(J^`Gg`)(e/not(D..`eq`));(J^`jib`)(M*((M+`cz`)+t.js));(J^`aA`)(z^(M+`Gg`<=k.ie));(J^`d5`)(z^(e..`Skb`and z*`R4`));(J^`Yk`)(e/(M+`Jib`>=k.Wv));(J^`Rgb`)(e/(D..`LA`and e..`dA`));(J^`V6`)(z^(e..`Chb`or z*`Vf`));(J^`ts`)(e/(`474357`-0))K=z*`t0`and e..`kn`(J^`S_`)(z^(`9092120`-0))K=K or z*`Nj`else(J^`P2`)(c*true)K=c^`xG`and`5512715`-0 or`2160723`-0 end else(J^`g6`)(M*((O^`Pk`))[(s/`jnb`)((G^`T5`)(`49748`-0),`11105605788700`-0)]);(J^`XP`)(z^(L)[M+`YR`]);(J^`fkb`)(M*((O^`iib`))[(s/`N7`)((G^`Ujb`)(`49581`-0),`18020600135433`-0)])K=((z*`Cp`))[M+`Uob`];(J^`M2`)(M*(Q)[(g)[`1`-0] ]);(J^`mnb`)(z^K(M+`Yu`))K=true(J^`DR`)(z^{});(Q)[(g)[`2`-0] ]=K K=(L)[((O^`ni`))[(s/`KC`)((E^`Sq`){`3`-0,`2`-0,`1`-0,(G^`ceb`)(`49638`-0),(G^`Uq`)(`49515`-0),(G^`KH`)(`49623`-0)},`27012642084895`-0)] ]end end else if(`10764614`-0)*(`1`-0)>K*(`1`-0)then if`0`-0>K-(`10318448`-0)then if K*(`1`-0)<(`10162735`-0)*(`1`-0)then K=`11126050`-0 else(J^`kR`)(z^{a^`ar`})K=(L)[((O^`Dbb`))[(s/`Zz`)((E^`Cy`){`1`-0,`3`-0,`2`-0,(G^`wl`)(`49794`-0),(G^`sN`)(`49631`-0),(G^`Cgb`)(`49846`-0)},`30328717625563`-0)] ]end else(J^`K`)(w..((O^`Wx`))[(s/`Rb`)((G^`Io`)(`49678`-0),`21139484394113`-0)]);(J^`uU`)(v/((O^`Ni`))[(s/`AD`)((G^`kL`)(`49572`-0),`23774796415840`-0)]);(J^`P_`)(OP^((O^`xf`))[(s/`H2`)((G^`lr`)(`49848`-0),`6819478669973`-0)]);(J^`cA`)(Y..(Q)[i*`Eq`]);(J^`gu`)(P*((T..`Rd`))[v.HR]);(J^`rG`)(x/((O^`Sp`))[(s/`mbb`)((G^`Jj`)(`49501`-0),`23578576556422`-0)]);(J^`qK`)(v/((h/`P1`))[w-`fB`]);(J^`iQ`)(C/(P..`r`==v.H_));(J^`eG`)(F..(Y-`WS`)(C-`JE`));(J^`Kb`)(Y..(Q)[i*`QL`]);(J^`YB`)(v/(Q)[i*`Zv`]);(J^`Gfb`)(sP-((T..`Vn`))[x^`lob`]);(J^`bc`)(w..v.L3(sP*`Hn`));(J^`cE`)(v/(Q)[i*`cab`]);(J^`F3`)(x/((h/`Ex`))[OP/`AT`]);(J^`Zo`)(sP-v.y_(x^`eeb`));(J^`FG`)(P*(w-`reb`==sP*`wJ`));(J^`Ehb`)(C/(Y-`Tab`)(P..`zZ`));(J^`inb`)(n..(F.Ld~=C-`IL`))K=n.vdb and`13841566`-0 or`2242176`-0 end else if`0`-0>K-(`11100124`-0)then if K<`11002376`-0 then(J^`sM`)(a-((O^`v9`))[(s/`Nf`)((E^`mkb`){`7`-0,`3`-0,`5`-0,`6`-0,`2`-0,`1`-0,`4`-0,(G^`Th`)(`49793`-0),(G^`f1`)(`49514`-0),(G^`gjb`)(`49749`-0),(G^`pe`)(`49850`-0),(G^`mZ`)(`49521`-0),(G^`zJ`)(`49704`-0),(G^`Kp`)(`49782`-0)},`353479940307`-0)]);(J^`wf`)(n..N(`5339112`-0,{}));(J^`UU`)(h^((O^`gh`))[(s/`Kcb`)((E^`Llb`){`2`-0,`1`-0,(G^`OP`)(`49856`-0),(G^`lJ`)(`49637`-0)},`5637622448348`-0)]);(J^`MP`)(i..f());(J^`gy`)(F..((O^`dh`))[(s/`dR`)((G^`lQ`)(`49673`-0),`16748669023337`-0)]);(Q)[i*`mw`]=n.RB;(J^`pt`)(Y..((O^`Kx`))[(s/`Dnb`)((E^`Fy`){`1`-0,`2`-0,(G^`H4`)(`49537`-0),(G^`Tt`)(`49742`-0)},`27295758748445`-0)]);(J^`js`)(T-(L)[h/`VD`]);(J^`Np`)(h^((O^`Wcb`))[(s/`leb`)((G^`dpb`)(`49661`-0),`28851943273945`-0)]);(J^`KF`)(n..((T..`Ut`))[h/`x4`]);(J^`mi`)(h^((O^`yF`))[(s/`Y4`)((G^`AT`)(`49818`-0),`9239610603323`-0)]);(J^`zib`)(T-n.Slb(h/`R4`));(J^`Ymb`)(h^(L)[Y-`Hab`]);(J^`ldb`)(Y..((O^`RP`))[(s/`wQ`)((G^`Yab`)(`49609`-0),`3386021055132`-0)]);(J^`BN`)(n..((h/`nm`))[Y-`lG`]);(J^`ez`)(Y..((O^`fob`))[(s/`dA`)((G^`ekb`)(`49548`-0),`9688839405589`-0)]);(J^`q4`)(h^n.Eu(Y-`zI`));(J^`a0`)(Y..((T..`v`))[F.nt]);(J^`AN`)(C/((O^`Mdb`))[(s/`lx`)((G^`jt`)(`49805`-0),`16033504251284`-0)]);(J^`eR`)(F..((h/`Wx`))[C-`Ejb`]);(J^`Rq`)(n..(Y-`cD`~=F.sP))K=n.acb and`6221387`-0 or`10344165`-0 else(J^`Vhb`)(R-(Q)[D..`Qdb`])K=R*`Ax`and`16661057`-0 or`6958818`-0 end else(J^`CF`)((y)[true])K=y^`Dh`and`10142717`-0 or`7430025`-0 end end end else if K*(`1`-0)<(`11929473`-0)*(`1`-0)then if(K-(`11490919`-0))+(`11490919`-0)<`11490919`-0 then if`11371460`-0>K then if K*(`1`-0)<(`11194412`-0)*(`1`-0)then(J^`scb`)(JP..`1`-0);(J^`Wkb`)(SP..(C-`SO`==JP/`MO`))K=SP+`qR`and`8100235`-0 or`11526657`-0 else(J^`bB`)(j*(i*`Qe`))K=n.UJ K=`12003691`-0 end else if`11413667`-0>K then K=`2303433`-0 else(J^`Bp`)(M*((O^`zM`))[(s/`Ygb`)((E^`CP`){`2`-0,`1`-0,(G^`oI`)(`49852`-0),(G^`uR`)(`49536`-0)},`6303049182527`-0)]);(J^`Uy`)(z^(L)[M+`LK`]);(J^`Hc`)(M*((O^`sW`))[(s/`Kd`)((E^`ny`){`1`-0,`2`-0,`3`-0,(G^`Zeb`)(`49683`-0),(G^`fpb`)(`49860`-0),(G^`U0`)(`49632`-0)},`23554238444277`-0)])K=((z*`bz`))[M+`Jpb`];(J^`e2`)(M*(Q)[(g)[`1`-0] ]);(J^`cj`)(z^K(M+`am`))K=true(J^`DX`)(z^{});(Q)[(g)[`2`-0] ]=K K=(L)[((O^`gf`))[(s/`nl`)((E^`dN`){`1`-0,`3`-0,`2`-0,(G^`kw`)(`49578`-0),(G^`OA`)(`49569`-0),(G^`YD`)(`49854`-0)},`19186458242033`-0)] ]end end else if K*(`1`-0)<(`11668853`-0)*(`1`-0)then if K+(`0`-0)<(`11538614`-0)+(`0`-0)then K=`7363445`-0 else(J^`HT`)((y)[((O^`Dk`))[(s/`ZY`)((E^`bN`){`8`-0,`9`-0,`2`-0,`5`-0,`3`-0,`6`-0,`7`-0,`4`-0,`10`-0,`1`-0,(G^`TT`)(`49835`-0),(G^`ad`)(`49534`-0),(G^`Vj`)(`49770`-0),(G^`br`)(`49797`-0),(G^`Sc`)(`49707`-0),(G^`Zn`)(`49552`-0),(G^`gZ`)(`49824`-0),(G^`BY`)(`49503`-0),(G^`Hlb`)(`49815`-0),(G^`aw`)(`49840`-0)},`13270723394801`-0)] ])K=(L)[((O^`KI`))[(s/`Dq`)((E^`e4`){`3`-0,`1`-0,`2`-0,(G^`LT`)(`49645`-0),(G^`cU`)(`49729`-0),(G^`Nnb`)(`49845`-0)},`33032342860814`-0)] ];(J^`qi`)(z^{y^`to`})end else(J^`l8`)(k-l(`12949137`-0,{}));(J^`OZ`)(z^((O^`TC`))[(s/`CW`)((G^`NM`)(`49785`-0),`15652958160281`-0)])K=(L)[z*`kr`];(J^`S9`)(z^K(k.to));(J^`Fgb`)(k-z*`bkb`)K=k.FJ and`9585827`-0 or`5035137`-0 end end else if K*(`1`-0)<(`12547337`-0)*(`1`-0)then if`0`-0>K-(`12232215`-0)then if(K+(`11940419`-0))-(`11940419`-0)<`11940419`-0 then K=(Q)[(g)[`1`-0] ];(J^`CP`)(z^{K()})K=(L)[((O^`xx`))[(s/`yU`)((E^`Fkb`){`1`-0,`3`-0,`2`-0,(G^`tQ`)(`49775`-0),(G^`dv`)(`49837`-0),(G^`gN`)(`49811`-0)},`2158077381423`-0)] ];(J^`slb`)(z^{q(z*`U0`)})else(J^`vr`)((y)[j^`AM`])K=a^`am`K=`16239772`-0 end else(J^`nmb`)(x/((O^`oI`))[(s/`tG`)((E^`phb`){`1`-0,`2`-0,(G^`Ydb`)(`49858`-0),(G^`xj`)(`49580`-0)},`16248169280040`-0)]);(J^`G1`)(OP^((O^`hj`))[(s/`Ej`)((E^`FV`){`2`-0,`1`-0,(G^`j`)(`49677`-0),(G^`Th`)(`49485`-0)},`10887478036077`-0)]);(J^`fL`)(sP-((O^`oA`))[(s/`gM`)((G^`Sfb`)(`49620`-0),`22390288773088`-0)]);(J^`R0`)(w..((O^`o9`))[(s/`Dl`)((G^`lQ`)(`49799`-0),`33856786591810`-0)]);(J^`z0`)(v/{w-`yD`,sP*`eL`,x^`cP`,OP/`Df`});(J^`QP`)(w..`0`-0);(J^`yO`)(sP-(`1`-0));(J^`KF`)(x/#v.b0);(J^`Ahb`)(OP^(x^`kB`))K=`15012366`-0(J^`pmb`)(x/(`1`-0));(J^`I3`)(EP/x^`Ih`);(J^`LS`)(x/(`0`-0));(J^`XS`)(LP*(EP*`h_`<x^`OO`));(J^`nI`)(x/(sP*`ok`-EP*`SS`))end else if`12614060`-0>(K+(`12614060`-0))-(`12614060`-0)then if(`12577966`-0)*(`1`-0)>K*(`1`-0)then(J^`GL`)(i..((O^`Ac`))[(s/`KM`)((E^`W1`){`1`-0,`2`-0,(G^`yV`)(`49589`-0),(G^`Lv`)(`49807`-0)},`1158618836682`-0)])K=`309266`-0(J^`rgb`)(a-(L)[i*`rgb`]);(J^`xp`)(i..((O^`hR`))[(s/`CZ`)((E^`Ws`){`1`-0,`2`-0,(G^`qD`)(`49554`-0),(G^`Gob`)(`49594`-0)},`1497960799314`-0)]);(J^`YN`)(j*((a^`Ym`))[i*`OB`]);(J^`Cx`)((y)[j^`xcb`])else(J^`HS`)(M*((O^`qg`))[(s/`Hn`)((G^`iI`)(`49573`-0),`25274041205462`-0)]);(J^`xQ`)(z^((O^`nc`))[(s/`WT`)((G^`gj`)(`49655`-0),`14388554824949`-0)])K=(L)[z*`Tfb`];(J^`Ld`)(z^K(M+`uY`))K=(L)[((O^`QI`))[(s/`gob`)((E^`GD`){`2`-0,`3`-0,`1`-0,(G^`fq`)(`49739`-0),(G^`CV`)(`49568`-0),(G^`JG`)(`49635`-0)},`6711841718716`-0)] ];(J^`zhb`)(z^{})end else(J^`hV`)(z^{})K=true(Q)[(g)[`1`-0] ]=K K=(L)[((O^`W8`))[(s/`Mgb`)((E^`Fn`){`3`-0,`1`-0,`2`-0,(G^`bv`)(`49666`-0),(G^`e0`)(`49653`-0),(G^`xr`)(`49549`-0)},`1814718153211`-0)] ]end end end end else if K-(`15013130`-0)<`0`-0 then if`13985426`-0>(K-(`13985426`-0))+(`13985426`-0)then if`0`-0>K-(`13388378`-0)then if K<`12977903`-0 then if K+(`0`-0)<(`12749199`-0)+(`0`-0)then(J^`eT`)(j*nil);(J^`kD`)(o^A(o.Jy));(J^`L_`)(v/true);(J^`lab`)(V/A(V+`iQ`));(J^`NC`)((y)[nil]);(J^`pj`)(F..nil);(J^`ql`)(R-A(R*`Vq`));(J^`Xhb`)(h^nil);(J^`w5`)(p^A(p.e9));(J^`xy`)(n..nil);(J^`edb`)(k-v.zX);(J^`Rcb`)(i..A(i*`g8`))K=`11007159`-0(J^`nI`)(T-nil);(J^`s2`)(P*nil);(J^`UB`)(Y..nil);(J^`us`)(a-nil);(J^`N1`)(C/nil)else(J^`ds`)(M*(`100`-0));(J^`Yg`)(k-(M+`Ugb`));(J^`gp`)(z^(`1`-0));(J^`Jjb`)(M*(`1`-0));(J^`sfb`)(t/(M+`px`));(J^`zN`)(M*(`0`-0))K=`15299794`-0(J^`Cb`)(D-(t.w<M+`Pn`));(J^`Rcb`)(M*(z*`kq`-t.t7))end else if`13319398`-0>(K+(`13319398`-0))-(`13319398`-0)then(J^`RI`)(o^(`1`-0));(J^`mD`)(r+(y^`ui`)(o.bkb));(J^`oV`)(r+(y^`rg`)())K=`441118`-0 else(J^`Pib`)(e/(M+`QG`))K=((O^`Jf`))[(s/`Ec`)((E^`Ft`){`3`-0,`14`-0,`13`-0,`18`-0,`12`-0,`16`-0,`24`-0,`10`-0,`7`-0,`23`-0,`11`-0,`6`-0,`9`-0,`17`-0,`8`-0,`25`-0,`21`-0,`15`-0,`4`-0,`5`-0,`20`-0,`2`-0,`22`-0,`19`-0,`1`-0,(G^`NW`)(`49593`-0),(G^`SL`)(`49751`-0),(G^`ex`)(`49491`-0),(G^`wU`)(`49586`-0),(G^`gI`)(`49733`-0),(G^`vk`)(`49768`-0),(G^`ugb`)(`49667`-0),(G^`QP`)(`49562`-0),(G^`JP`)(`49668`-0),(G^`d0`)(`49628`-0),(G^`K_`)(`49561`-0),(G^`wfb`)(`49838`-0),(G^`Ah`)(`49827`-0),(G^`it`)(`49746`-0),(G^`lE`)(`49674`-0),(G^`tfb`)(`49630`-0),(G^`BF`)(`49559`-0),(G^`vkb`)(`49641`-0),(G^`Vab`)(`49756`-0),(G^`cfb`)(`49516`-0),(G^`qeb`)(`49654`-0),(G^`xL`)(`49487`-0),(G^`sX`)(`49812`-0),(G^`Mv`)(`49508`-0),(G^`YI`)(`49498`-0)},`15219957122398`-0)];(J^`Dnb`)(z^((O^`Sob`))[(s/`iv`)((E^`y1`){`1`-0,`2`-0,(G^`Eob`)(`49685`-0),(G^`cb`)(`49529`-0)},`6298339410334`-0)]);(J^`lV`)(e/nil);(L)[z*`gib`]=K K=`15299794`-0 end end else if K<`13930016`-0 then if`0`-0>K-(`13608597`-0)then(J^`UT`)(z^{t.wab})K=(L)[((O^`oK`))[(s/`jI`)((E^`Vib`){`2`-0,`3`-0,`1`-0,(G^`sr`)(`49765`-0),(G^`eQ`)(`49771`-0),(G^`Jk`)(`49792`-0)},`4069555924195`-0)] ]else K=(L)[((O^`CY`))[(s/`aj`)((E^`LU`){`2`-0,`3`-0,`1`-0,(G^`ifb`)(`49755`-0),(G^`bm`)(`49777`-0),(G^`wH`)(`49621`-0)},`21388551954583`-0)] ];(J^`Mm`)(z^{a^`Ymb`})end else K=nil(J^`G5`)(k-K);(J^`oB`)(M*Z);(J^`efb`)(c*((O^`VG`))[(s/`jS`)((G^`rob`)(`49648`-0),`3075559498750`-0)]);(J^`mG`)(D-f())K=((O^`wY`))[(s/`gib`)((E^`wgb`){`7`-0,`5`-0,`4`-0,`2`-0,`6`-0,`1`-0,`3`-0,(G^`S2`)(`49716`-0),(G^`B6`)(`49712`-0),(G^`rjb`)(`49758`-0),(G^`c4`)(`49659`-0),(G^`SO`)(`49681`-0),(G^`ZK`)(`49587`-0),(G^`n8`)(`49579`-0)},`7322173910736`-0)];(J^`nh`)(t/K)K=false(Q)[D..`HJ`]=K K=nil(J^`dib`)(e/f());(Q)[e..`XO`]=K K=H(`135366`-0,{D..`Kjb`,e..`xC`});(Q)[e..`Iib`]=K;(J^`veb`)(z^(Q)[e..`Om`]);(L)[c^`hk`]=z*`av`(J^`tc`)(c*(Q)[D..`Bnb`])K=c^`zr`and`13577820`-0 or`4005819`-0 end end else if(`14731766`-0)*(`1`-0)>K*(`1`-0)then if(`14706954`-0)*(`1`-0)>K*(`1`-0)then if K*(`1`-0)<(`14286946`-0)*(`1`-0)then(J^`L1`)(zP..(SP+`aJ`~=JP/`X7`))K=`7414132`-0(J^`g_`)(qP*zP^`lv`)else(J^`ic`)(z^true)K=`2303433`-0(Q)[(g)[`1`-0] ]=z*`wn`end else(J^`mob`)(M*(Z)[`1`-0])K=`0`-0(J^`Tw`)(z^((O^`RF`))[(s/`iv`)((G^`O3`)(`49833`-0),`24233619963657`-0)]);(J^`mO`)(k-K)K=(L)[z*`m1`];(J^`uj`)(e/{K(M+`vU`)});(J^`Tp`)(t/((e..`OH`))[`2`-0])K=`16440440`-0(J^`ecb`)(D-((e..`uhb`))[`3`-0]);(J^`Dx`)(z^((e..`q_`))[`1`-0]);(J^`Cpb`)(e/(z*`dpb`))end else if(K+(`14961803`-0))-(`14961803`-0)<`14961803`-0 then if`14768079`-0>K then(J^`T0`)(sP-(P..`aeb`~=Y-`xmb`));(J^`PH`)(v/(sP*`ng`))K=`1640323`-0 else K=true(Q)[(g)[`1`-0] ]=K K=(L)[((O^`Oh`))[(s/`E5`)((E^`dK`){`3`-0,`1`-0,`2`-0,(G^`ZF`)(`49828`-0),(G^`Nbb`)(`49525`-0),(G^`ds`)(`49650`-0)},`8258217238541`-0)] ];(J^`Hlb`)(z^{})end else(J^`gm`)(x/(x^`cn`+EP*`VN`));(J^`CG`)(sP-(x^`C8`<=OP/`Ohb`));(J^`xh`)(KP/not LP.GQ);(J^`pX`)(sP-(KP*`xV`and sP*`vC`));(J^`Tg`)(KP/(x^`k4`>=OP/`PG`));(J^`Nab`)(KP/(LP.jl and KP*`md`));(J^`tm`)(sP-(KP*`KP`or sP*`YZ`));(J^`xv`)(KP/(`1095573`-0))K=sP*`Ky`and KP*`U_`(J^`mw`)(sP-(`4550811`-0))K=K or sP*`T8`end end end else if`16164389`-0>(K+(`16164389`-0))-(`16164389`-0)then if(K-(`15261331`-0))+(`15261331`-0)<`15261331`-0 then if K-(`15024728`-0)<`0`-0 then if`15016699`-0>(K+(`15016699`-0))-(`15016699`-0)then K=p.di K=R*`bgb`and`8558223`-0 or`7522024`-0 else(J^`cU`)(M*((M+`Mz`)+t.nv));(J^`jgb`)(z^(M+`VZ`<=k.Yf));(J^`P2`)(e/not(D..`FX`));(J^`zY`)(z^(e..`dG`and z*`Mib`));(J^`gpb`)(e/(M+`TS`>=k.GL));(J^`df`)(e/(D..`G7`and e..`QB`));(J^`Xnb`)(z^(e..`Ij`or z*`jR`));(J^`O9`)(e/(`34662`-0))K=z*`Smb`and e..`fR`(J^`vdb`)(z^(`491930`-0))K=K or z*`gV`end else if K+(`0`-0)<(`15114938`-0)+(`0`-0)then K=`567944`-0 else K=true(J^`j0`)(z^(`1`-0));(Q)[(g)[`1`-0] ]=K;(J^`wX`)(M*(`200`-0));(J^`R9`)(k-(M+`uw`));(J^`s`)(M*(`1`-0))K=`9716284`-0(J^`bM`)(t/(M+`Abb`));(J^`I1`)(M*(`0`-0));(J^`ic`)(D-(t.me<M+`Yn`));(J^`Mi`)(M*(z*`Ve`-t.Bbb))end end else if K<`15540543`-0 then if`0`-0>K-(`15273450`-0)then K=`5179583`-0 else(J^`bK`)(e/not(D..`QN`));(J^`US`)(M*((M+`W2`)+t.HW));(J^`I9`)(z^(M+`I8`<=k.wz));(J^`Kob`)(z^(e..`hu`and z*`Su`));(J^`oob`)(e/(M+`x_`>=k.Z5));(J^`Ev`)(e/(D..`L2`and e..`mhb`));(J^`tn`)(z^(e..`Dl`or z*`bj`));(J^`d7`)(e/(`13333333`-0))K=z*`Gnb`and e..`QW`(J^`dp`)(z^(`12614046`-0))K=K or z*`Fkb`end else(J^`AR`)(w..((O^`Ng`))[(s/`ky`)((G^`WG`)(`49741`-0),`4107033053746`-0)]);(J^`Ve`)(z^{a^`yfb`});(J^`FW`)(v/(L)[w-`bz`])K=(L)[((O^`Nlb`))[(s/`Ebb`)((E^`TU`){`1`-0,`2`-0,`3`-0,(G^`kO`)(`49786`-0),(G^`leb`)(`49646`-0),(G^`XO`)(`49829`-0)},`16494324224129`-0)] ];(J^`YE`)(w..v.tZ(C-`Rdb`,P..`n6`,Y-`YH`))end end else if(K+(`16410464`-0))-(`16410464`-0)<`16410464`-0 then if(`16381326`-0)-(`0`-0)>K-(`0`-0)then if K*(`1`-0)<(`16243364`-0)*(`1`-0)then K=o.LS K=y^`ZN`and`11584456`-0 or`15082247`-0 else(J^`Dk`)(r+(y^`e0`)())K=`441118`-0(J^`amb`)(o^(`1`-0));(J^`djb`)(r+(y^`Rob`)(o.Tl))end else(J^`yq`)(M*((O^`J9`))[(s/`hdb`)((G^`Xw`)(`49595`-0),`16128827381162`-0)]);(J^`Vfb`)(z^(L)[M+`Zm`]);(J^`wq`)(M*((O^`Heb`))[(s/`xv`)((G^`m_`)(`49699`-0),`31940436923312`-0)])K=((z*`u5`))[M+`hab`];(J^`VY`)(M*{});(J^`Cob`)(z^K(M+`yk`))K=true(Q)[(g)[`1`-0] ]=K;(J^`H`)(z^{})K=(L)[((O^`BY`))[(s/`Sfb`)((E^`Ygb`){`2`-0,`1`-0,`3`-0,(G^`Qcb`)(`49724`-0),(G^`MG`)(`49687`-0),(G^`et`)(`49624`-0)},`18198130976666`-0)] ]end else if(K+(`16594619`-0))-(`16594619`-0)<`16594619`-0 then if K*(`1`-0)<(`16427137`-0)*(`1`-0)then(J^`wg`)(z^{});(J^`RE`)(M*nil)K=(L)[((O^`or`))[(s/`Lw`)((E^`UQ`){`3`-0,`2`-0,`1`-0,(G^`Iw`)(`49723`-0),(G^`ml`)(`49510`-0),(G^`Xp`)(`49500`-0)},`20753068388503`-0)] ]else D.HX,R.yp=(e..`hG`)(t.mK,D..`J`)K=D..`uib`and`8005650`-0 or`7470945`-0 end else K=(L)[((O^`Cob`))[(s/`p8`)((E^`Ml`){`1`-0,`3`-0,`2`-0,(G^`SN`)(`49551`-0),(G^`JZ`)(`49625`-0),(G^`Dz`)(`49530`-0)},`2383394909685`-0)] ];(J^`FG`)(z^{t.EX})end end end end end end end K=#W return q(z*`KP`)end,function(s,O,...)local E=S({LZ=t(O)},{__div=function(s,O)s.LZ=O end,__add=function(s,O)return s.LZ end})local L=S({nm=function(...)return K(s,{...},O,E+`ht`)end},{__concat=function(s,O)s.nm=O end,__div=function(s,O)return s.nm end})return L/`Db`end,function(L,...)for s=`1`-0,#L,`1`-0 do(M)[(L)[s] ]=(M)[(L)[s] ]+(`1`-0)end if Z then local K=S({SR=Z(true)},{__mul=function(s,O)s.SR=O end,__concat=function(s,O)return s.SR end})local J=S({Vh=W(K..`cP`)},{__index=function(s,O)s.Vh=O end,__sub=function(s,O)return rawget(s,`Vh`)end});((J-`jY`))[((O^`rO`))[(s/`ST`)((E^`Cbb`){`1`-0,`2`-0,(G^`G7`)(`49779`-0),(G^`fO`)(`49524`-0)},`19430244840730`-0)] ],((J-`ecb`))[((O^`eC`))[(s/`ZJ`)((G^`xM`)(`49555`-0),`3233334198099`-0)] ],((J-`rS`))[((O^`yt`))[(s/`q`)((G^`HU`)(`49493`-0),`2722920291788`-0)] ]=L,D,function(...)return`-123215`-0 end return K..`HG`else return g({},{[((O^`P`))[(s/`Ez`)((G^`sdb`)(`49796`-0),`654400058551`-0)] ]=D,[((O^`lG`))[(s/`ld`)((E^`uf`){`2`-0,`1`-0,(G^`xh`)(`49520`-0),(G^`sC`)(`49636`-0)},`5496118145343`-0)] ]=L,[((O^`whb`))[(s/`Aj`)((G^`Xm`)(`49560`-0),`13124142845155`-0)] ]=function(...)return`-123215`-0 end})end end,{},function(s,O,...)local E=S({Dob=t(O)},{__index=function(s,O)s.Dob=O end,__pow=function(s,O)return rawget(s,`Dob`)end})local L=S({cfb=function(L,...)return K(s,{L},O,E^`K0`)end},{__add=function(s,O)s.cfb=O end,__index=function(s,O)return rawget(s,`cfb`)end})return L.Lw end,function(s,O,...)local E=S({qf=t(O)},{__div=function(s,O)s.qf=O end,__mul=function(s,O)return s.qf end})local L=S({Yx=function(L,G,S,J,...)return K(s,{L,G,S,J},O,E*`gjb`)end},{__add=function(s,O)s.Yx=O end,__sub=function(s,O)return s.Yx end})return L-`Qdb`end,{},function(s,O,...)local E=S({vnb=t(O)},{__sub=function(s,O)s.vnb=O end,__index=function(s,O)return rawget(s,`vnb`)end})local L=S({bp=function(L,G,S,...)return K(s,{L,G,S},O,E.Sib)end},{__concat=function(s,O)s.bp=O end,__mul=function(s,O)return s.bp end})return L*`Wu`end,function(s,...)(M)[s]=(M)[s]-(`1`-0)if(M)[s]==`0`-0 then(M)[s],(Q)[s]=nil,nil end end,function(s,O,...)local E=S({Xdb=t(O)},{__pow=function(s,O)s.Xdb=O end,__add=function(s,O)return s.Xdb end})local L=S({ahb=function(L,G,...)return K(s,{L,G},O,E+`R`)end},{__pow=function(s,O)s.ahb=O end,__concat=function(s,O)return s.ahb end})return L..`DJ`end,`0`-0,function(s,O,...)local E=S({id=t(O)},{__sub=function(s,O)s.id=O end,__mul=function(s,O)return s.id end})local L=S({Yl=function(L,G,S,J,q,...)return K(s,{L,G,S,J,q},O,E*`aq`)end},{__div=function(s,O)s.Yl=O end,__sub=function(s,O)return s.Yl end})return L-`x0`end,function(...)k=k+(`1`-0);(M)[k]=`1`-0 return k end,function(s,...)local O,E=S({zB=`1`-0},{__index=function(s,O)s.zB=O end,__pow=function(s,O)return rawget(s,`zB`)end}),S({zn=(s)[`1`-0]},{__pow=function(s,O)s.zn=O end,__index=function(s,O)return rawget(s,`zn`)end})while E.Fpb do(M)[E.D6],O.zB=(M)[E.h]-(`1`-0),(`1`-0)+O^`br`if(M)[E.is]==`0`-0 then(M)[E.kbb],(Q)[E.xZ]=nil,nil end(J^`sG`)(E^(s)[O^`s6`])end end return(e(`13978715`-0,{}))(q(z))end)(getfenv and getfenv()or _ENV,unpack or(table)[((O^`XR`))[(s/`Qfb`)((E^`Kcb`){`1`-0,`2`-0,(G^`hU`)(`49759`-0),(G^`MT`)(`49633`-0)},`34408437170320`-0)] ],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local ProximityPromptService = game:GetService("ProximityPromptService")
+local CoreGui = game:GetService("CoreGui")
+local HttpService = game:GetService("HttpService")
+
+local player = Players.LocalPlayer
+
+-- Configuration Table
+local Config = {
+    SemiTP = false,
+    AutoPotion = false,
+    SpeedEnabled = false,
+    SpeedValue = 31,
+    AutoWalk = false
+}
+local ConfigFileName = "Krypton_Config.json"
+
+-- Attempt to Load Config
+pcall(function()
+    if isfile and isfile(ConfigFileName) and readfile then
+        local fileContent = readfile(ConfigFileName)
+        local decoded = HttpService:JSONDecode(fileContent)
+        if decoded.SemiTP ~= nil then Config.SemiTP = decoded.SemiTP end
+        if decoded.AutoPotion ~= nil then Config.AutoPotion = decoded.AutoPotion end
+        if decoded.SpeedEnabled ~= nil then Config.SpeedEnabled = decoded.SpeedEnabled end
+        if decoded.SpeedValue ~= nil then Config.SpeedValue = decoded.SpeedValue end
+        if decoded.AutoWalk ~= nil then Config.AutoWalk = decoded.AutoWalk end
+    end
+end)
+
+local pos1 = Vector3.new(-352.98, -7, 74.30)            
+local pos2 = Vector3.new(-352.98, -6.49, 45.76)   
+local standing1 = Vector3.new(-336.36, -4.59, 99.51)
+local standing2 = Vector3.new(-334.81, -4.59, 18.90)
+
+-- Auto Walk Coordinates
+local Trigger_A = Vector3.new(-352.885, -7.300, 76.068)
+local Target_A = Vector3.new(-348.345, -6.835, 10.607)
+local Trigger_B = pos2 
+local Target_B = Vector3.new(-347.41278076171875, -7.3000030517578125, 103.7739486694336)
+
+local spot1_sequence = {
+    CFrame.new(-370.810913, -7.00000334, 41.2687263, 0.99984771, 1.22364419e-09, 0.0174523517, -6.54859778e-10, 1, -3.2596418e-08, -0.0174523517, 3.25800258e-08, 0.99984771),
+    CFrame.new(-336.355286, -5.10107088, 17.2327671, -0.999883354, -2.76150569e-08, 0.0152716246, -2.88224964e-08, 1, -7.88441525e-08, -0.0152716246, -7.9275118e-08, -0.999883354)
+}
+
+local spot2_sequence = {
+    CFrame.new(-354.782867, -7.00000334, 92.8209305, -0.999997616, -1.11891862e-09, -0.00218066527, -1.11958298e-09, 1, 3.03415071e-10, 0.00218066527, 3.05855785e-10, -0.999997616),
+    CFrame.new(-336.942902, -5.10106993, 99.3276443, 0.999914348, -3.63984611e-08, 0.0130875716, 3.67094941e-08, 1, -2.35254749e-08, -0.0130875716, 2.40038975e-08, 0.999914348)
+}
+
+if CoreGui:FindFirstChild("KryptonGui") then 
+    CoreGui["KryptonGui"]:Destroy() 
+end
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "KryptonGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = CoreGui
+
+-- Visual Theme Colors (Updated to Krypton Green/Black)
+local ThemeColor = Color3.fromRGB(0, 255, 127) -- Krypton Green
+local SecondaryColor = Color3.fromRGB(255, 255, 255)
+local DarkBg = Color3.fromRGB(15, 15, 15)
+
+-- List to keep track of UI elements for Minimizing
+local MinimizableElements = {} 
+
+local function createESPBox(position, labelText)
+    local espFolder = Instance.new("Folder")
+    espFolder.Name = "ESPBox_" .. labelText
+    espFolder.Parent = workspace
+    
+    local box = Instance.new("Part")
+    box.Name = "ESPPart"
+    box.Size = Vector3.new(5, 0.5, 5)
+    box.Position = position
+    box.Anchored = true
+    box.CanCollide = false
+    box.Transparency = 0.5
+    box.Material = Enum.Material.Neon
+    box.Color = ThemeColor
+    box.Parent = espFolder
+    
+    local selectionBox = Instance.new("SelectionBox")
+    selectionBox.Adornee = box
+    selectionBox.LineThickness = 0.05
+    selectionBox.Color3 = SecondaryColor
+    selectionBox.Parent = box
+    
+    local billboard = Instance.new("BillboardGui")
+    billboard.Name = "ESPLabel"
+    billboard.Adornee = box
+    billboard.Size = UDim2.new(0, 150, 0, 40)
+    billboard.StudsOffset = Vector3.new(0, 2, 0)
+    billboard.AlwaysOnTop = true
+    billboard.Parent = box
+    
+    local textLabel = Instance.new("TextLabel")
+    textLabel.Size = UDim2.new(1, 0, 1, 0)
+    textLabel.BackgroundTransparency = 1
+    textLabel.Text = labelText
+    textLabel.TextColor3 = ThemeColor
+    textLabel.TextSize = 18
+    textLabel.Font = Enum.Font.GothamBold
+    textLabel.TextStrokeTransparency = 0.5
+    textLabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+    textLabel.Parent = billboard
+    
+    return espFolder
+end
+
+createESPBox(pos1, "Teleport Here")
+createESPBox(pos2, "Teleport Here")
+
+local autoSemiTPCFrameLeft = CFrame.new(-349.325867, -7.00000238, 95.0031433, -0.999048233, -8.29406233e-09, -0.0436184891, -1.03892832e-08, 1, 4.78084594e-08, 0.0436184891, 4.82161227e-08, -0.999048233)
+createESPBox(autoSemiTPCFrameLeft.Position, "Auto TP Left")
+
+local autoSemiTPCFrameRight = CFrame.new(-349.560211, -7.00000238, 27.0543289, -0.999961913, 5.50995267e-08, -0.00872585084, 5.48100907e-08, 1, 3.34090586e-08, 0.00872585084, 3.29295204e-08, -0.999961913)
+createESPBox(autoSemiTPCFrameRight.Position, "Auto TP Right")
+
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Name = "MainFrame"
+mainFrame.Size = UDim2.new(0, 240, 0, 0) 
+mainFrame.Position = UDim2.new(1, -255, 0.5, 0) 
+mainFrame.AnchorPoint = Vector2.new(0, 0.5)
+mainFrame.BackgroundColor3 = DarkBg
+mainFrame.BackgroundTransparency = 0.1
+mainFrame.BorderSizePixel = 0
+mainFrame.Active = true
+mainFrame.ClipsDescendants = true 
+mainFrame.Parent = screenGui
+
+-- Intro Animation
+TweenService:Create(mainFrame, TweenInfo.new(0.5, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = UDim2.new(0, 240, 0, 370)}):Play()
+
+Instance.new("UICorner", mainFrame).CornerRadius = UDim.new(0, 8)
+
+local uiStroke = Instance.new("UIStroke", mainFrame)
+uiStroke.Thickness = 2
+uiStroke.Color = ThemeColor 
+
+local uiGradient = Instance.new("UIGradient")
+uiGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0.00, ThemeColor),
+    ColorSequenceKeypoint.new(0.50, Color3.fromRGB(0, 50, 25)),
+    ColorSequenceKeypoint.new(1.00, ThemeColor)
+})
+uiGradient.Parent = uiStroke
+
+task.spawn(function()
+    while task.wait() do
+        for i = 0, 360, 2 do
+            uiGradient.Rotation = i
+            task.wait(0.01)
+        end
+    end
+end)
+
+-- Header Frame (Holds Title and Control Buttons)
+local headerFrame = Instance.new("Frame")
+headerFrame.Size = UDim2.new(1, 0, 0, 35)
+headerFrame.BackgroundTransparency = 1
+headerFrame.Parent = mainFrame
+
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(0.7, 0, 1, 0)
+title.Position = UDim2.new(0.05, 0, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "KRYPTON SEMI"
+title.TextColor3 = ThemeColor
+title.TextSize = 18
+title.Font = Enum.Font.GothamBold
+title.TextXAlignment = Enum.TextXAlignment.Left
+title.Parent = headerFrame
+
+-- Close Button
+local closeBtn = Instance.new("TextButton")
+closeBtn.Size = UDim2.new(0, 25, 0, 25)
+closeBtn.Position = UDim2.new(1, -30, 0, 5)
+closeBtn.BackgroundColor3 = Color3.fromRGB(0,0,0)
+closeBtn.BackgroundTransparency = 1
+closeBtn.Text = "×"
+closeBtn.TextColor3 = SecondaryColor
+closeBtn.TextSize = 22
+closeBtn.Font = Enum.Font.GothamBold
+closeBtn.Parent = headerFrame
+
+-- Minimize Button
+local minBtn = Instance.new("TextButton")
+minBtn.Size = UDim2.new(0, 25, 0, 25)
+minBtn.Position = UDim2.new(1, -55, 0, 5)
+minBtn.BackgroundColor3 = Color3.fromRGB(0,0,0)
+minBtn.BackgroundTransparency = 1
+minBtn.Text = "—"
+minBtn.TextColor3 = SecondaryColor
+minBtn.TextSize = 16
+minBtn.Font = Enum.Font.GothamBold
+minBtn.Parent = headerFrame
+
+-- Button Logic
+closeBtn.MouseEnter:Connect(function() TweenService:Create(closeBtn, TweenInfo.new(0.2), {TextColor3 = Color3.fromRGB(255,80,80)}):Play() end)
+closeBtn.MouseLeave:Connect(function() TweenService:Create(closeBtn, TweenInfo.new(0.2), {TextColor3 = SecondaryColor}):Play() end)
+closeBtn.MouseButton1Click:Connect(function()
+    TweenService:Create(mainFrame, TweenInfo.new(0.3, Enum.EasingStyle.Back, Enum.EasingDirection.In), {Size = UDim2.new(0, 240, 0, 0)}):Play()
+    task.wait(0.3)
+    screenGui:Destroy()
+end)
+
+local isMinimized = false
+local AutoTPLeft_Btn, AutoTPRight_Btn, StealBar_Frame 
+
+minBtn.MouseEnter:Connect(function() TweenService:Create(minBtn, TweenInfo.new(0.2), {TextColor3 = ThemeColor}):Play() end)
+minBtn.MouseLeave:Connect(function() TweenService:Create(minBtn, TweenInfo.new(0.2), {TextColor3 = SecondaryColor}):Play() end)
+minBtn.MouseButton1Click:Connect(function()
+    isMinimized = not isMinimized
+    
+    if isMinimized then
+        -- Shrink
+        TweenService:Create(mainFrame, TweenInfo.new(0.4, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Size = UDim2.new(0, 240, 0, 135)}):Play()
+        if AutoTPLeft_Btn then TweenService:Create(AutoTPLeft_Btn, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 35)}):Play() end
+        if AutoTPRight_Btn then TweenService:Create(AutoTPRight_Btn, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 70)}):Play() end
+        if StealBar_Frame then TweenService:Create(StealBar_Frame, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 110)}):Play() end
+        
+        for _, guiObj in ipairs(MinimizableElements) do
+            if guiObj:IsA("GuiObject") then guiObj.Visible = false end
+        end
+    else
+        -- Expand
+        TweenService:Create(mainFrame, TweenInfo.new(0.4, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {Size = UDim2.new(0, 240, 0, 370)}):Play()
+        if AutoTPLeft_Btn then TweenService:Create(AutoTPLeft_Btn, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 205)}):Play() end
+        if AutoTPRight_Btn then TweenService:Create(AutoTPRight_Btn, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 240)}):Play() end
+        if StealBar_Frame then TweenService:Create(StealBar_Frame, TweenInfo.new(0.4), {Position = UDim2.new(0.05, 0, 0, 280)}):Play() end
+        
+        for _, guiObj in ipairs(MinimizableElements) do guiObj.Visible = true end
+    end
+end)
+
+
+local dividerLine = Instance.new("Frame")
+dividerLine.Size = UDim2.new(0.9, 0, 0, 1)
+dividerLine.Position = UDim2.new(0.05, 0, 0, 35)
+dividerLine.BackgroundColor3 = ThemeColor
+dividerLine.BackgroundTransparency = 0.5
+dividerLine.BorderSizePixel = 0
+dividerLine.Parent = mainFrame
+
+local subtitle = Instance.new("TextLabel")
+subtitle.Size = UDim2.new(1, 0, 0, 15)
+subtitle.Position = UDim2.new(0, 0, 0, 38)
+subtitle.BackgroundTransparency = 1
+subtitle.Text = "KRYPTON PRIVATE"
+subtitle.TextColor3 = Color3.fromRGB(120, 120, 120)
+subtitle.TextSize = 9
+subtitle.Font = Enum.Font.GothamMedium
+subtitle.Parent = mainFrame
+table.insert(MinimizableElements, subtitle)
+
+local semiTPEnabled = false
+local speedEnabled = false
+local speedConnection = nil
+local SPEED_BOOST = Config.SpeedValue
+local autoWalkEnabled = false
+local isAutoWalking = false
+local walkDebounce = false
+local activeAutoWalkMode = nil 
+
+
+local function ResetToWork()
+    local flags = {
+        {"GameNetPVHeaderRotationalVelocityZeroCutoffExponent", "-5000"},
+        {"LargeReplicatorWrite5", "true"},
+        {"LargeReplicatorEnabled9", "true"},
+        {"AngularVelociryLimit", "360"},
+        {"TimestepArbiterVelocityCriteriaThresholdTwoDt", "2147483646"},
+        {"S2PhysicsSenderRate", "15000"},
+        {"DisableDPIScale", "true"},
+        {"MaxDataPacketPerSend", "2147483647"},
+        {"ServerMaxBandwith", "52"},
+        {"PhysicsSenderMaxBandwidthBps", "20000"},
+        {"MaxTimestepMultiplierBuoyancy", "2147483647"},
+        {"SimOwnedNOUCountThresholdMillionth", "2147483647"},
+        {"MaxMissedWorldStepsRemembered", "-2147483648"},
+        {"CheckPVDifferencesForInterpolationMinVelThresholdStudsPerSecHundredth", "1"},
+        {"StreamJobNOUVolumeLengthCap", "2147483647"},
+        {"DebugSendDistInSteps", "-2147483648"},
+        {"MaxTimestepMultiplierAcceleration", "2147483647"},
+        {"LargeReplicatorRead5", "true"},
+        {"SimExplicitlyCappedTimestepMultiplier", "2147483646"},
+        {"GameNetDontSendRedundantNumTimes", "1"},
+        {"CheckPVLinearVelocityIntegrateVsDeltaPositionThresholdPercent", "1"},
+        {"CheckPVCachedRotVelThresholdPercent", "10"},
+        {"LargeReplicatorSerializeRead3", "true"},
+        {"ReplicationFocusNouExtentsSizeCutoffForPauseStuds", "2147483647"},
+        {"NextGenReplicatorEnabledWrite4", "true"},
+        {"CheckPVDifferencesForInterpolationMinRotVelThresholdRadsPerSecHundredth", "1"},
+        {"GameNetDontSendRedundantDeltaPositionMillionth", "1"},
+        {"InterpolationFrameVelocityThresholdMillionth", "5"},
+        {"StreamJobNOUVolumeCap", "2147483647"},
+        {"InterpolationFrameRotVelocityThresholdMillionth", "5"},
+        {"WorldStepMax", "30"},
+        {"TimestepArbiterHumanoidLinearVelThreshold", "1"},
+        {"InterpolationFramePositionThresholdMillionth", "5"},
+        {"TimestepArbiterHumanoidTurningVelThreshold", "1"},
+        {"MaxTimestepMultiplierContstraint", "2147483647"},
+        {"GameNetPVHeaderLinearVelocityZeroCutoffExponent", "-5000"},
+        {"CheckPVCachedVelThresholdPercent", "10"},
+        {"TimestepArbiterOmegaThou", "1073741823"},
+        {"MaxAcceptableUpdateDelay", "1"},
+        {"LargeReplicatorSerializeWrite4", "true"},
+    }
+    for _, data in ipairs(flags) do
+        pcall(function() if setfflag then setfflag(data[1], data[2]) end end)
+    end
+    local char = player.Character
+    if char then
+        local hum = char:FindFirstChildOfClass("Humanoid")
+        if hum then hum:ChangeState(Enum.HumanoidStateType.Dead) end
+        char:ClearAllChildren()
+        local f = Instance.new("Model", workspace)
+        player.Character = f task.wait()
+        player.Character = char f:Destroy()
+    end
+end
+
+local function executeTP(sequence)
+    local char = player.Character
+    local root = char and char:FindFirstChild("HumanoidRootPart")
+    local hum = char and char:FindFirstChildOfClass("Humanoid")
+    local backpack = player:FindFirstChild("Backpack")
+
+    if root and hum and backpack then
+        local carpet = backpack:FindFirstChild("Flying Carpet")
+        if carpet then hum:EquipTool(carpet) end
+        task.wait(0.05)
+        root.CFrame = sequence[1]
+        task.wait(0.1)
+        root.CFrame = sequence[2]
+    end
+end
+
+
+local function createToggle(text, position, default, callback)
+    local container = Instance.new("CanvasGroup")
+    container.Size = UDim2.new(0.9, 0, 0, 30)
+    container.Position = position
+    container.BackgroundTransparency = 1
+    container.BorderSizePixel = 0
+    container.Parent = mainFrame
+    
+    table.insert(MinimizableElements, container)
+
+    local label = Instance.new("TextLabel")
+    label.Size = UDim2.new(1, -45, 1, 0)
+    label.BackgroundTransparency = 1
+    label.Text = text
+    label.TextColor3 = SecondaryColor
+    label.TextSize = 11
+    label.Font = Enum.Font.GothamMedium
+    label.TextXAlignment = Enum.TextXAlignment.Left
+    label.Parent = container
+
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(0, 38, 0, 18)
+    btn.Position = UDim2.new(1, -38, 0.5, -9)
+    btn.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+    btn.Text = ""
+    btn.Parent = container
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(1, 0)
+
+    local dot = Instance.new("Frame")
+    dot.Size = UDim2.new(0, 12, 0, 12)
+    dot.Position = UDim2.new(0, 3, 0.5, -6)
+    dot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+    dot.Parent = btn
+    Instance.new("UICorner", dot).CornerRadius = UDim.new(1, 0)
+
+    local active = default
+    local goal = active and UDim2.new(1, -15, 0.5, -6) or UDim2.new(0, 3, 0.5, -6)
+    local col = active and ThemeColor or Color3.fromRGB(35, 35, 35)
+    dot.Position = goal
+    btn.BackgroundColor3 = col
+    
+    task.spawn(function() callback(active) end)
+
+    btn.MouseButton1Click:Connect(function()
+        active = not active
+        local goal = active and UDim2.new(1, -15, 0.5, -6) or UDim2.new(0, 3, 0.5, -6)
+        local col = active and ThemeColor or Color3.fromRGB(35, 35, 35)
+        TweenService:Create(dot, TweenInfo.new(0.15), {Position = goal}):Play()
+        TweenService:Create(btn, TweenInfo.new(0.15), {BackgroundColor3 = col}):Play()
+        callback(active)
+    end)
+    
+    return container
+end
+
+
+createToggle("Half TP", UDim2.new(0.05, 0, 0, 55), Config.SemiTP, function(state) 
+    semiTPEnabled = state 
+    Config.SemiTP = state
+end)
+
+createToggle("Auto Potion", UDim2.new(0.05, 0, 0, 90), Config.AutoPotion, function(state)
+    _G.AutoPotion = state
+    Config.AutoPotion = state
+end)
+
+local speedContainer = Instance.new("CanvasGroup")
+speedContainer.Size = UDim2.new(0.9, 0, 0, 30)
+speedContainer.Position = UDim2.new(0.05, 0, 0, 125)
+speedContainer.BackgroundTransparency = 1
+speedContainer.BorderSizePixel = 0
+speedContainer.Parent = mainFrame
+table.insert(MinimizableElements, speedContainer)
+
+local speedLabel = Instance.new("TextLabel")
+speedLabel.Size = UDim2.new(0.5, 0, 1, 0)
+speedLabel.BackgroundTransparency = 1
+speedLabel.Text = "Speed Boost"
+speedLabel.TextColor3 = SecondaryColor
+speedLabel.TextSize = 11
+speedLabel.Font = Enum.Font.GothamMedium
+speedLabel.TextXAlignment = Enum.TextXAlignment.Left
+speedLabel.Parent = speedContainer
+
+local speedBox = Instance.new("TextBox")
+speedBox.Size = UDim2.new(0, 30, 0, 20)
+speedBox.Position = UDim2.new(1, -85, 0.5, -10)
+speedBox.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+speedBox.Text = tostring(SPEED_BOOST)
+speedBox.TextColor3 = ThemeColor
+speedBox.Font = Enum.Font.GothamBold
+speedBox.TextSize = 10
+speedBox.Parent = speedContainer
+Instance.new("UICorner", speedBox).CornerRadius = UDim.new(0, 4)
+
+speedBox.FocusLost:Connect(function()
+    local val = tonumber(speedBox.Text)
+    if val then SPEED_BOOST = val Config.SpeedValue = val else speedBox.Text = tostring(SPEED_BOOST) end
+end)
+
+local speedBtn = Instance.new("TextButton")
+speedBtn.Size = UDim2.new(0, 38, 0, 18)
+speedBtn.Position = UDim2.new(1, -38, 0.5, -9)
+speedBtn.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+speedBtn.Text = ""
+speedBtn.Parent = speedContainer
+Instance.new("UICorner", speedBtn).CornerRadius = UDim.new(1, 0)
+
+local speedDot = Instance.new("Frame")
+speedDot.Size = UDim2.new(0, 12, 0, 12)
+speedDot.Position = UDim2.new(0, 3, 0.5, -6)
+speedDot.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+speedDot.Parent = speedBtn
+Instance.new("UICorner", speedDot).CornerRadius = UDim.new(1, 0)
+
+local function updateSpeedLogic(state)
+    speedEnabled = state
+    Config.SpeedEnabled = state
+    if state then
+        if not speedConnection then
+            speedConnection = RunService.Heartbeat:Connect(function()
+                local char = player.Character
+                if not char then return end
+                local hum = char:FindFirstChild("Humanoid")
+                local hrp = char:FindFirstChild("HumanoidRootPart")
+                if hum and hrp and hum.MoveDirection.Magnitude > 0 then
+                    if isAutoWalking then return end 
+                    local dir = hum.MoveDirection.Unit
+                    hrp.AssemblyLinearVelocity = Vector3.new(dir.X * SPEED_BOOST, hrp.AssemblyLinearVelocity.Y, dir.Z * SPEED_BOOST)
+                end
+            end)
+        end
+    else
+        if speedConnection then speedConnection:Disconnect() speedConnection = nil end
+    end
+end
+
+if Config.SpeedEnabled then
+    speedEnabled = true
+    speedDot.Position = UDim2.new(1, -15, 0.5, -6)
+    speedBtn.BackgroundColor3 = ThemeColor
+    updateSpeedLogic(true)
+end
+
+speedBtn.MouseButton1Click:Connect(function()
+    speedEnabled = not speedEnabled
+    local goal = speedEnabled and UDim2.new(1, -15, 0.5, -6) or UDim2.new(0, 3, 0.5, -6)
+    local col = speedEnabled and ThemeColor or Color3.fromRGB(35, 35, 35)
+    TweenService:Create(speedDot, TweenInfo.new(0.15), {Position = goal}):Play()
+    TweenService:Create(speedBtn, TweenInfo.new(0.15), {BackgroundColor3 = col}):Play()
+    updateSpeedLogic(speedEnabled)
+end)
+
+
+createToggle("Auto Walk Base", UDim2.new(0.05, 0, 0, 160), Config.AutoWalk, function(state)
+    autoWalkEnabled = state
+    Config.AutoWalk = state
+    isAutoWalking = false
+    walkDebounce = false
+    activeAutoWalkMode = nil 
+end)
+
+
+task.spawn(function()
+    task.wait(1)
+    ResetToWork()
+end)
+
+local discordText = Instance.new("TextLabel")
+discordText.Size = UDim2.new(1, 0, 0, 15)
+discordText.Position = UDim2.new(0, 0, 1, -20)
+discordText.BackgroundTransparency = 1
+discordText.Text = "KRYPTON.GG/LOAD"
+discordText.TextColor3 = Color3.fromRGB(80, 80, 80)
+discordText.TextSize = 10
+discordText.Font = Enum.Font.GothamMedium
+discordText.Parent = mainFrame
+table.insert(MinimizableElements, discordText)
+
+
+local currentEquipTask = nil
+local isHolding = false
+
+ProximityPromptService.PromptButtonHoldBegan:Connect(function(prompt, plr)
+    if plr ~= player or not semiTPEnabled then return end
+    isHolding = true
+    if currentEquipTask then task.cancel(currentEquipTask) end
+    currentEquipTask = task.spawn(function()
+        task.wait(1)
+        if isHolding and semiTPEnabled then
+            local backpack = player:WaitForChild("Backpack", 2)
+            if backpack then
+                local carpet = backpack:FindFirstChild("Flying Carpet")
+                if carpet and player.Character and player.Character:FindFirstChild("Humanoid") then player.Character.Humanoid:EquipTool(carpet) end
+            end
+        end
+    end)
+end)
+
+ProximityPromptService.PromptButtonHoldEnded:Connect(function(prompt, plr)
+    if plr ~= player then return end
+    isHolding = false
+    if currentEquipTask then task.cancel(currentEquipTask) end
+end)
+
+
+ProximityPromptService.PromptTriggered:Connect(function(prompt, plr)
+    if plr ~= player or not semiTPEnabled then return end
+    local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+    if root then
+        local d1 = (root.Position - pos1).Magnitude
+        local d2 = (root.Position - pos2).Magnitude
+        root.CFrame = CFrame.new(d1 < d2 and pos1 or pos2)
+        if _G.AutoPotion then
+            local backpack = player:FindFirstChild("Backpack")
+            if backpack then
+                local potion = backpack:FindFirstChild("Giant Potion")
+                if potion and player.Character and player.Character:FindFirstChild("Humanoid") then
+                    player.Character.Humanoid:EquipTool(potion)
+                    task.wait(0.1)
+                    pcall(function() potion:Activate() end)
+                end
+            end
+        end
+    end
+    isHolding = false
+end)
+
+
+local dragging, dragStart, startPos
+mainFrame.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true dragStart = input.Position startPos = mainFrame.Position
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+        local delta = input.Position - dragStart
+        mainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+    end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then dragging = false end
+end)
+
+
+local CONFIG = { ANTI_STEAL_ACTIVE = false }
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local allAnimalsCache = {}
+local PromptMemoryCache = {}
+local InternalStealCache = {}
+local IsStealing = false
+local StealProgress = 0
+local CurrentStealTarget = nil
+local AUTO_STEAL_PROX_RADIUS = 200
+
+local function getHRP()
+    local char = player.Character
+    return char and (char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("UpperTorso"))
+end
+
+local function isMyBase(plotName)
+    local plot = workspace.Plots:FindFirstChild(plotName)
+    local sign = plot and plot:FindFirstChild("PlotSign")
+    return sign and sign:FindFirstChild("YourBase") and sign.YourBase.Enabled
+end
+
+local function scanSinglePlot(plot)
+    if not plot or not plot:IsA("Model") or isMyBase(plot.Name) then return end
+    local podiums = plot:FindFirstChild("AnimalPodiums")
+    if not podiums then return end
+    for _, podium in ipairs(podiums:GetChildren()) do
+        if podium:IsA("Model") and podium:FindFirstChild("Base") then
+            table.insert(allAnimalsCache, { plot = plot.Name, slot = podium.Name, worldPosition = podium:GetPivot().Position, uid = plot.Name .. "_" .. podium.Name })
+        end
+    end
+end
+
+local function initializeScanner()
+    task.wait(2)
+    local plots = workspace:WaitForChild("Plots", 10)
+    for _, plot in ipairs(plots:GetChildren()) do scanSinglePlot(plot) end
+    plots.ChildAdded:Connect(scanSinglePlot)
+    task.spawn(function() while task.wait(5) do table.clear(allAnimalsCache) for _, plot in ipairs(plots:GetChildren()) do scanSinglePlot(plot) end end end)
+end
+
+local function findPrompt(animal)
+    if PromptMemoryCache[animal.uid] and PromptMemoryCache[animal.uid].Parent then return PromptMemoryCache[animal.uid] end
+    local plot = workspace.Plots:FindFirstChild(animal.plot)
+    local podium = plot and plot.AnimalPodiums:FindFirstChild(animal.slot)
+    local prompt = podium and podium.Base.Spawn.PromptAttachment:FindFirstChildOfClass("ProximityPrompt")
+    if prompt then PromptMemoryCache[animal.uid] = prompt end
+    return prompt
+end
+
+local function buildStealCallbacks(prompt)
+    if InternalStealCache[prompt] then return end
+    local data = { holdCallbacks = {}, triggerCallbacks = {}, ready = true }
+    local ok1, conns1 = pcall(getconnections, prompt.PromptButtonHoldBegan)
+    if ok1 then for _, c in ipairs(conns1) do table.insert(data.holdCallbacks, c.Function) end end
+    local ok2, conns2 = pcall(getconnections, prompt.Triggered)
+    if ok2 then for _, c in ipairs(conns2) do table.insert(data.triggerCallbacks, c.Function) end end
+    InternalStealCache[prompt] = data
+end
+
+local function executeInternalStealAsync(prompt, animalData, sequence)
+    local data = InternalStealCache[prompt]
+    if not data or not data.ready or IsStealing then return end
+    data.ready = false IsStealing = true StealProgress = 0 CurrentStealTarget = animalData
+    local tpDone = false
+    task.spawn(function()
+        for _, fn in ipairs(data.holdCallbacks) do task.spawn(fn) end
+        local startTime = tick()
+        while tick() - startTime < 1.3 do
+            StealProgress = (tick() - startTime) / 1.3
+            if StealProgress >= 0.73 and not tpDone then
+                tpDone = true
+                local hrp = getHRP()
+                if hrp then
+                    hrp.CFrame = sequence[1]
+                    task.wait(0.1)
+                    hrp.CFrame = sequence[2]
+                    task.wait(0.2)
+                    local d1 = (hrp.Position - pos1).Magnitude
+                    local d2 = (hrp.Position - pos2).Magnitude
+                    hrp.CFrame = CFrame.new(d1 < d2 and pos1 or pos2)
+                end
+            end
+            task.wait()
+        end
+        StealProgress = 1
+        for _, fn in ipairs(data.triggerCallbacks) do task.spawn(fn) end
+        task.wait(0.2)
+        data.ready = true IsStealing = false StealProgress = 0 CurrentStealTarget = nil CONFIG.ANTI_STEAL_ACTIVE = false
+    end)
+end
+
+local function getNearestAnimal()
+    local hrp = getHRP()
+    if not hrp then return nil end
+    local nearest, dist = nil, math.huge
+    for _, animal in ipairs(allAnimalsCache) do
+        local d = (hrp.Position - animal.worldPosition).Magnitude
+        if d < dist and d <= AUTO_STEAL_PROX_RADIUS then dist = d nearest = animal end
+    end
+    return nearest
+end
+
+
+local leftBtn = Instance.new("TextButton", mainFrame)
+leftBtn.Size = UDim2.new(0.9, 0, 0, 30)
+leftBtn.Position = UDim2.new(0.05, 0, 0, 205)
+leftBtn.Text = "AUTO STEAL LEFT"
+leftBtn.Font = Enum.Font.GothamBold
+leftBtn.TextSize = 13
+leftBtn.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+leftBtn.TextColor3 = ThemeColor
+Instance.new("UICorner", leftBtn)
+AutoTPLeft_Btn = leftBtn
+
+leftBtn.MouseButton1Click:Connect(function()
+    local hum = player.Character and player.Character:FindFirstChild("Humanoid")
+    local carpet = player.Backpack:FindFirstChild("Flying Carpet")
+    if hum and carpet then hum:EquipTool(carpet) end
+    activeAutoWalkMode = "Left"
+    if IsStealing then return end
+    local animal = getNearestAnimal()
+    if animal then 
+        local prompt = findPrompt(animal) 
+        if prompt then buildStealCallbacks(prompt) executeInternalStealAsync(prompt, animal, spot1_sequence) end 
+    end
+end)
+
+local rightBtn = Instance.new("TextButton", mainFrame)
+rightBtn.Size = UDim2.new(0.9, 0, 0, 30)
+rightBtn.Position = UDim2.new(0.05, 0, 0, 240) 
+rightBtn.Text = "AUTO STEAL RIGHT"
+rightBtn.Font = Enum.Font.GothamBold
+rightBtn.TextSize = 13
+rightBtn.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+rightBtn.TextColor3 = ThemeColor
+Instance.new("UICorner", rightBtn)
+AutoTPRight_Btn = rightBtn
+
+rightBtn.MouseButton1Click:Connect(function()
+    local hum = player.Character and player.Character:FindFirstChild("Humanoid")
+    local carpet = player.Backpack:FindFirstChild("Flying Carpet")
+    if hum and carpet then hum:EquipTool(carpet) end
+    activeAutoWalkMode = "Right"
+    if IsStealing then return end
+    local animal = getNearestAnimal()
+    if animal then 
+        local prompt = findPrompt(animal) 
+        if prompt then buildStealCallbacks(prompt) executeInternalStealAsync(prompt, animal, spot2_sequence) end 
+    end
+end)
+
+local bar = Instance.new("Frame", mainFrame)
+bar.Size = UDim2.new(0.9, 0, 0, 10)
+bar.Position = UDim2.new(0.05, 0, 0, 280) 
+bar.BackgroundColor3 = Color3.fromRGB(10,10,10)
+Instance.new("UICorner", bar)
+StealBar_Frame = bar
+
+local fill = Instance.new("Frame", bar)
+fill.BackgroundColor3 = ThemeColor
+fill.Size = UDim2.new(0,0,1,0)
+Instance.new("UICorner", fill)
+
+local percentLabel = Instance.new("TextLabel", bar)
+percentLabel.Size = UDim2.new(1, 0, 1, 0)
+percentLabel.BackgroundTransparency = 1
+percentLabel.Text = "0%"
+percentLabel.TextColor3 = SecondaryColor
+percentLabel.TextSize = 9
+percentLabel.Font = Enum.Font.GothamBold
+percentLabel.TextXAlignment = Enum.TextXAlignment.Center
+
+task.spawn(function()
+    while true do
+        fill.Size = UDim2.new(math.clamp(StealProgress,0,1),0,1,0)
+        percentLabel.Text = (math.floor(StealProgress*100+0.5)).."%"
+        task.wait(0.02)
+    end
+end)
+
+local saveConfigButton = Instance.new("TextButton", mainFrame)
+saveConfigButton.Size = UDim2.new(0.9, 0, 0, 30)
+saveConfigButton.Position = UDim2.new(0.05, 0, 0, 305) 
+saveConfigButton.Text = "SAVE SETTINGS"
+saveConfigButton.Font = Enum.Font.GothamBold
+saveConfigButton.TextSize = 12
+saveConfigButton.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+saveConfigButton.TextColor3 = Color3.fromRGB(150, 150, 150)
+Instance.new("UICorner", saveConfigButton)
+table.insert(MinimizableElements, saveConfigButton)
+
+saveConfigButton.MouseButton1Click:Connect(function()
+    if writefile then
+        pcall(function() writefile(ConfigFileName, HttpService:JSONEncode(Config)) end)
+        saveConfigButton.Text = "SETTINGS SAVED" saveConfigButton.TextColor3 = ThemeColor task.wait(1)
+        saveConfigButton.Text = "SAVE SETTINGS" saveConfigButton.TextColor3 = Color3.fromRGB(150, 150, 150)
+    end
+end)
+
+RunService.Heartbeat:Connect(function()
+    if not autoWalkEnabled or not activeAutoWalkMode then return end
+    local root = getHRP()
+    if not root then return end
+    local currentTrigger = (activeAutoWalkMode == "Right") and Trigger_A or Trigger_B
+    local currentTarget = (activeAutoWalkMode == "Right") and Target_A or Target_B
+    local distToTrigger = (root.Position - currentTrigger).Magnitude
+    local distToTarget = (root.Position - currentTarget).Magnitude
+    if distToTrigger < 6 and not isAutoWalking and not walkDebounce then
+        walkDebounce = true
+        task.spawn(function() task.wait(0.2) if autoWalkEnabled then isAutoWalking = true else walkDebounce = false end end)
+    end
+    if distToTarget < 4 and isAutoWalking then
+        isAutoWalking = false walkDebounce = false activeAutoWalkMode = nil root.AssemblyLinearVelocity = Vector3.zero
+    end
+    if isAutoWalking then
+        local dir = (currentTarget - root.Position).Unit
+        root.AssemblyLinearVelocity = Vector3.new(dir.X * SPEED_BOOST, root.AssemblyLinearVelocity.Y, dir.Z * SPEED_BOOST)
+    end
+end)
+
+initializeScanner()
